@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Samsung Medical Center (SMC)</p>
-    <p>  Data Science Research Institute</p>
+    <p>  Data Science Research Institute!</p>
     <p>Sungkyunkwan University (SKKU)</p>
     <p>  Samsung Advance Institute for Health Sciences and Technology</p>
 
