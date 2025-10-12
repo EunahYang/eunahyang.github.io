@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research-interests",
           title: "Research Interests",
-          description: "What excites me keeps changing. Here are my past and current curiosities.",
+          description: "What excites me keeps changing. And this is my past and the latest curiosity of mine.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Research%20Interests/";
