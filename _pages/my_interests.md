@@ -2,7 +2,7 @@
 layout: page
 permalink: /Research Interests/
 title: Research Interests
-description: What excites me keeps changing. And this is my past and the latest curiosity of mine.
+description: What excites me keeps changing. Here are my past and current curiosities.
 nav: true
 nav_order: 1
 ---
