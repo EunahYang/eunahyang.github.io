@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-##### **Current**
+<h5 style="font-weight:700;">Current</h5>
 asdfasdf
 
 ##### **Transition period between my master’s and my current position**
