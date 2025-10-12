@@ -30,7 +30,7 @@ Hi, I am Eunah(pronounce: ɯna) and I study network neuroscience. I'm interested
 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). I use brain MRIs to quantify? brain networks and .
 
-Before this, I received my M.S. in Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/1_project/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. Earlier, I studied in GIST and recieved a B.S. in Life Sceince.
+Before this, I received my M.S. in Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/pd-amyloid/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. Earlier, I studied in GIST and recieved a B.S. in Life Sceince.
 
 
 
