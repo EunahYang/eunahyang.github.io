@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Eunah(pronounce: ɯna) and I study network neuroscience. I'm interested on how all of us are different and feels similar at the same time.
+Hi, I am Eunah(pronounce: ɯna) and I study network neuroscience. I'm interested on how all of us are different and feels similar at the same time. For detailed thoughts on my current interests, please [click here](https://eunahyang.github.io/Research%20Interests/).
 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). I use brain MRIs to quantify? brain networks and .
 
