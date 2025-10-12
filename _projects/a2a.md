@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Atlas to Atlas transformation
+description: discrepancy between human brain atlases
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 1
+category: Current
 giscus_comments: true
 ---
 
