@@ -10,14 +10,14 @@ nav_order: 1
 <h5 style="font-weight:700;">Current</h5>
 asdfasdf
 
-##### **Transition period between my master’s and my current position**
+<h5 style="font-weight:700;">Transition period between my master’s and my current position</h5>
 asdfasdf
 
-##### Second half of the master's program
+<h5 style="font-weight:700;">Second half of the master's program</h5>
 asdfasdfasdf
 
-#### First half of the master's program
+<h5 style="font-weight:700;">First half of the master's program</h5>
 asdfasdfasdf
 
-#### Undergraduate years
+<h5 style="font-weight:700;">Undergraduate years</h5>
 asdfasdfasdf
