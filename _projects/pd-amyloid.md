@@ -6,7 +6,6 @@ img: assets/img/12.jpg
 importance: 1
 category: Past
 related_publications: false
-permalink: /projects/pd-amyloid/
 ---
 
 Every project has a beautiful feature showcase page.
