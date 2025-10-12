@@ -416,7 +416,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-6",
+          section: "News",},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
@@ -441,11 +446,6 @@ ninja.data = [{
           description: "discrepancy between human brain atlases",
           section: "Projects",handler: () => {
               window.location.href = "/projects/a2a/";
-            },},{id: "projects-eosinophilia-induced-brain-hypoxia",
-          title: 'Eosinophilia induced brain hypoxia',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/eosinophil_bbb/";
             },},{id: "projects-pd-amyloid",
           title: 'PD Amyloid',
           description: "PD heterogeneity explained with Amyloid Beta",
