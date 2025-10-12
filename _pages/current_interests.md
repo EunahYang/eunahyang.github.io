@@ -4,7 +4,7 @@ permalink: /Current Interests/
 title: Current Interests
 description: What excites me keeps changing. And this is my latest curiosity .
 nav: true
-nav_order: 4
+nav_order: 1
 ---
 
 
