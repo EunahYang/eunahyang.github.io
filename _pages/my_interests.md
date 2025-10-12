@@ -10,14 +10,14 @@ nav_order: 1
 #### Current
 asdfasdf
 
-### 2024. dfdd
+#### Short transition period between my master’s and my current position
 asdfasdf
 
-2023. dfdf
+#### Second half of Masters program
 asdfasdfasdf
 
-2022. fdf
+#### First half of Masters program
 asdfasdfasdf
 
-2020. fsdaaf
+#### Undergrads
 asdfasdfasdf
