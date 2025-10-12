@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-current-interests",
+          title: "Current Interests",
+          description: "What excites me keeps changing. And this is my latest curiosity .",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Current%20Interests/";
+          },
+        },{id: "nav-projects",
           title: "Projects",
           description: "Current and past experiences of mine",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-current-interests",
-          title: "Current Interests",
-          description: "What excites me keeps changing. And this is my latest curiosity .",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Current%20Interests/";
           },
         },{id: "nav-people",
           title: "people",
