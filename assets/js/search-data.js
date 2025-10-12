@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Last updated in October 2025",
           section: "Navigation",
           handler: () => {
@@ -416,12 +416,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -461,6 +456,11 @@ ninja.data = [{
           description: "PD heterogeneity explained with Amyloid Beta",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pd-amyloid/";
+            },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
+          title: 'Transdiagnostic approach to psychiatric disorders in adolescents',
+          description: "hehehe",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/transdiagnostics_adolescent/";
             },},{
         id: 'social-email',
         title: 'email',
