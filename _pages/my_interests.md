@@ -17,7 +17,9 @@ asdfasdf
 asdfasdfasdf
 
 <h5 style="font-weight:700;">First half of the master's program</h5>
-asdfasdfasdf
+asdfasdfasdf.
+
+This is the sad part: I couldn't further develop or finish this project. My existing mouse allergy (I had managed with medication) became severely sansitized during the study, and I eventually experienced anaphylactic shocks that made it impossible to even stay in the same room with mice.
 
 <h5 style="font-weight:700;">Undergraduate years</h5>
 I majored in biology, studying traditional disciplines such as biochem, genetics, molecular, cellular, and developmental biology. My first exposure to neuroscience came during a short summer session at UC Berkeley, where I found how differently the brain could be studied compared to the biology I knew.  
