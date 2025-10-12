@@ -416,12 +416,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -456,6 +451,11 @@ ninja.data = [{
           description: "PD heterogeneity explained with Amyloid Beta",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pd-amyloid/";
+            },},{id: "projects-pericytes",
+          title: 'Pericytes',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pericyte_NVJ/";
             },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
           title: 'Transdiagnostic approach to psychiatric disorders in adolescents',
           description: "hehehe",
