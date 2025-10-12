@@ -6,7 +6,7 @@ description: Current and past experiences of mine
 nav: true
 nav_order: 2
 display_categories: [Current, Past]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
