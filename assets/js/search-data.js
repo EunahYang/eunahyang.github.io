@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-current-interests",
+          title: "Current Interests",
+          description: "What excites me keeps changing. And this is my latest curiosity .",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/Current%20Interests/";
           },
         },{id: "nav-people",
           title: "people",
