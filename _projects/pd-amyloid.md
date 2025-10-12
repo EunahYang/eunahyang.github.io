@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: PD Amyloid
+description: PD heterogeneity explained with Amyloid Beta
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: Past
+related_publications: false
+permalink: /projects/pd-amyloid/
 ---
 
 Every project has a beautiful feature showcase page.
