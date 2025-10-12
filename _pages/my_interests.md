@@ -7,13 +7,13 @@ nav: true
 nav_order: 1
 ---
 
-#### Current
+##### Current
 asdfasdf
 
-#### Transition period between my master’s and my current position
+##### Transition period between my master’s and my current position
 asdfasdf
 
-#### Second half of the master's program
+##### Second half of the master's program
 asdfasdfasdf
 
 #### First half of the master's program
