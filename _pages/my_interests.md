@@ -3,6 +3,7 @@ layout: page
 permalink: /Research Interests/
 title: Research Interests
 description: What excites me keeps changing. Here are my past and current curiosities.
+Reading from the bottom may help, since this is in reverse chronological order.
 nav: true
 nav_order: 1
 ---
