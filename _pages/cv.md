@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 3
 # cv_pdf: example_pdf.pdf # you can also use external links here
-description: Last updated: October 2025
+description: Last updated in October 2025
 toc:
 # sidebar: left
 ---
