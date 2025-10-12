@@ -7,13 +7,13 @@ first_name: Eunah
 middle_name: 
 last_name: Yang
 contact_note: >
-  Reach me via Email, and happy to be connected with LinkedIn and X.
+  Reach me via Email(eunahyyang@gmail.com), and happy to be connected with LinkedIn and X.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: network neuroscience, MRI, predictive modeling, hohoho # add your own keywords or leave empty
+keywords: network neuroscience, Human MRI, predictive modeling # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✨ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
