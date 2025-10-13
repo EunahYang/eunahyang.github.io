@@ -8,7 +8,9 @@ nav_order: 1
 ---
 
 <h5 style="font-weight:700;">Current</h5>
-asdfasdf
+Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining questions, and things you wish you had done differently. I felt the same as I wrapped up my first project; a series of new questions began to emerge.
+
+Brief information of current projects are [located in 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)
 
 <h5 style="font-weight:700;">Second half of the master's program</h5>
 
