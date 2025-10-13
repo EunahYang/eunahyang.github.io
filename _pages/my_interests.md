@@ -12,15 +12,23 @@ asdfasdf
 
 <h5 style="font-weight:700;">Second half of the master's program</h5>
 
+At this stage, my research began to take a new direction—toward human neuroimaging and network-level approaches to understanding disease mechanisms. Luckily, my master’s lab also conducted human brain MRI studies alongside the animal experiments, and I decided to make a bold transition from the wet lab to the dry lab. The first few months were honestly rough—I didn’t even know how to open a file without double-clicking it, and every term sounded like a foreign language. Neuroimaging preprocessing and analysis pipelines felt completely disconnected from the wet-lab “protocol” world I was used to. I didn’t know what I didn’t know, and that uncertainty was overwhelming.  
+
 Luckily, my master’s lab also conducted human brain MRI studies alongside the animal experiments, and I decided to make a bold transition from the wet lab to the dry lab. The first few months were honestly rough—I didn’t even know how to open a file without double-clicking it, and every term sounded like a foreign language. Neuroimaging preprocessing and analysis pipelines felt completely disconnected from the wet-lab “protocol” world I was used to. I didn’t know what I didn’t know, and that uncertainty was overwhelming.
 
 With patient guidance from my labmates, I slowly began to piece things together. They showed me how to run PET analyses step by step, and I wrote everything down, repeating the process until it started to make sense. I still remember the thrill when I first opened a 3D MRI volume, and later when I ran my first voxel-based analysis and saw clusters appear on the screen—*I actually did this*. 
 
 Moving into the dry lab also changed how I thought about the brain. In mouse studies, I was used to tracing relatively direct cause-and-effect relationships within defined circuits. But in human brain networks, I found myself looking at something closer to real life: multiple regions interacting, forming patterns that change together. That shift—from single circuits to distributed networks—was a turning point for me. It didn’t negate what I had learned before (the brain is both a collection of cells and a network); it simply added a new dimension. 
 
+Moving into the dry lab also changed how I thought about the brain. In mouse studies, I was used to tracing relatively direct cause-and-effect relationships within defined circuits. But in human brain networks, I found myself looking at something closer to real life: multiple regions interacting, forming patterns that change together. That shift—from single circuits to distributed networks—was a turning point for me. It didn’t negate what I had learned before (the brain is both a collection of cells and a network); it simply added a new dimension.  
+
+After gaining some confidence with neuroimaging analysis, I began a collaborative project with Severance Hospital that investigated Parkinson’s disease from a mixed-pathological perspective—emphasizing amyloid accumulation as a potential source of phenotypic heterogeneity beyond motor symptoms. The project deepened my technical skills in multimodal imaging analysis and reshaped how I think about disease mechanisms: less as isolated pathologies, and more as interacting network-level phenomena.  
+
 I took that step out of necessity, but it turned out to be one of the best decisions I’ve made. The experience taught me that even when the path feels uncertain, it’s possible to learn and rebuild from scratch. More importantly, it showed me that there isn’t just one right way to reach the questions I care about—and that mindset continues to shape how I approach research today.
 
-This project is in its final stage(manuscript polishing중이야), almost ready to submit! Hope to share my first publication real soon. Brief information of this project, you can [click here](https://eunahyang.github.io/projects/pd-amyloid/) for more information and my posters.
+I took that step out of necessity, but it turned out to be one of the best decisions I’ve made. The experience taught me that even when the path feels uncertain, it’s possible to learn and rebuild from scratch. More importantly, it showed me that there isn’t just one right way to reach the questions I care about—and that mindset continues to shape how I approach research today.  
+
+This project is now in its final stage, almost ready for submission. I hope to share my first publication soon. You can find a [brief overview of this project and my posters here.](https://eunahyang.github.io/projects/pd-amyloid/)
 
 <h5 style="font-weight:700;">First half of the master's program</h5>
 
@@ -31,7 +39,6 @@ I also wondered about the global coordination of blood flow. The brain cannot dr
 This led me to think about what happens when vessel health deteriorates. For example, calcification can stiffen arteries and impair their ability to buffer heart pulsations. Even when a abnormal physiological state doesn’t target the brain directly, could systemic cardiovascular conditions still influence the brain by altering energy distribution? These were the kinds of questions that drew me into studying the neurovascular coupling.
 
 This is the sad part: I couldn't further develop or finish this project. My existing mouse allergy (I had managed with medication) became severely sansitized during this study, and I eventually experienced anaphylactic shocks that made it impossible to even breathe in the same room with mice. If you don't mind some early and unpolished ideas from that time, you can take a look [here.](https://eunahyang.github.io/projects/pericyte-NVJ/)
-
 
 <h5 style="font-weight:700;">Undergraduate years</h5>
 
