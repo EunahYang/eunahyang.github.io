@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Atlas to Atlas transformation
-description: discrepancy between human brain atlases
-img: assets/img/3.jpg
+title: Atlas to Atlas transformation model
+description: [2025-]
+img: assets/img/a2a-thumbnail.jpg
 importance: 1
 category: Current
 giscus_comments: true
