@@ -3,9 +3,9 @@ layout: page
 title: Neuroimaging-based transdiagnostic approach to psychiatric disorders in adolescents
 description: [2024-]
 img: assets/img/transdiagnostics_thumbnail.jpg
-# redirect: https://unsplash.com
 importance: 2
 category: Current
+# redirect: https://unsplash.com
 ---
 
 Every project has a beautiful feature showcase page.
