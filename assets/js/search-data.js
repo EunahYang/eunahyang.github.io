@@ -458,7 +458,7 @@ ninja.data = [{
               window.location.href = "/projects/pericyte-NVJ/";
             },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
           title: 'Transdiagnostic approach to psychiatric disorders in adolescents',
-          description: "hehehe",
+          description: "[&quot;2024-&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transdiagnostics_adolescent/";
             },},{
