@@ -3,7 +3,7 @@ layout: page
 title: Pericytes
 description: another without an image
 img:
-importance: 3
+importance: 2
 category: Past
 ---
 
