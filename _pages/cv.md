@@ -11,7 +11,7 @@ toc:
 ---
 <div style="position:relative; padding-top: 0;">
   <iframe
-    src="https://drive.google.com/file/d/1P1rW6YWsTl7ED8ppUlfcBgyjcOF2Apga/view?usp=sharing"
+    src="https://drive.google.com/file/d/1P1rW6YWsTl7ED8ppUlfcBgyjcOF2Apga/preview"
     width="100%"
     height="900"
     allow="autoplay"
