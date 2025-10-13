@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transdiagnostic approach to psychiatric disorders in adolescents
-description: hehehe
+description: [2024-]
 img: assets/img/7.jpg
 # redirect: https://unsplash.com
 importance: 2
