@@ -445,15 +445,15 @@ ninja.data = [{
           title: 'Parasite-induced hypercoagulability and its potential harmful effect on cerebrovascular system',
           description: "[&quot;2020-2022&quot;]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/eosinophil_bbb/";
+              window.location.href = "/projects/eosinophil-bbb/";
             },},{id: "projects-pd-amyloid",
           title: 'PD Amyloid',
           description: "PD heterogeneity explained with Amyloid Beta",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pd-amyloid/";
-            },},{id: "projects-pericytes",
-          title: 'Pericytes',
-          description: "another without an image",
+            },},{id: "projects-in-vivo-imaging-of-functional-hyperemia-in-arterial-stiffness-model",
+          title: 'In vivo imaging of functional hyperemia in arterial stiffness model',
+          description: "[2022]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pericyte_NVJ/";
             },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
