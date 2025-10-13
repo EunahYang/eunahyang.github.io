@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /personal/
 title: Personal
-description: ME!
+description: More information of myself, including non-academic ones
 nav: true
 nav_order: 5
 
