@@ -19,7 +19,7 @@ Someone once told me that no one is ever fully satisfied with their own research
     This image can also have a caption. It's like magic.
 </div>
 
-Descriptions here
+During the PD research that I have done during my masters, that was a group-level comparison study. But I became aware of how much variability could be lost when collasping into diganostic categories. And by attending conferences, such themes like heterogeneity between individuals and individual prognosis prediction were intriguing. When we conduct a research in a individual level, masking effects during group analysis could be reduced.
 
 Brief descriptions of my current projects can be found in the ['Current' section of the Project menu.](https://eunahyang.github.io/projects/)
 
@@ -29,7 +29,7 @@ At this stage, my research began to take a new direction toward human neuroimagi
 
 Moving into the dry lab also changed how I thought about the brain. In mouse studies, I was used to tracing relatively direct cause-and-effect relationships within defined circuits. But in human brain networks, I found myself looking at something closer to real life: multiple regions interacting, forming patterns that change together. That shift—from single circuits to distributed networks—was a turning point for me. It didn’t negate what I had learned before (the brain is both a collection of cells and a network); it simply added a new dimension. 
 
-After gaining some confidence with neuroimaging analysis, I began a collaborative project with Severance Hospital that investigated Parkinson’s disease from a mixed-pathological perspective—emphasizing amyloid accumulation as a potential source of phenotypic heterogeneity beyond motor symptoms. The project deepened my technical skills in multimodal imaging analysis and reshaped how I think about disease mechanisms: less as isolated pathologies, and more as interacting network-level phenomena.  
+After gaining some confidence with neuroimaging analysis, I began a collaborative project with Severance Hospital that investigated Parkinson’s disease from a mixed-pathological perspective—emphasizing amyloid accumulation as a potential source of phenotypic heterogeneity beyond motor symptoms. The project deepened my technical skills in multimodal imaging analysis and reshaped how I think about disease mechanisms: less as isolated pathologies, and more as interacting network-level phenomena. 
 
 I took that step out of necessity, but it turned out to be one of the best decisions I’ve made. The experience taught me that even when the path feels uncertain, it’s possible to learn and rebuild from scratch. More importantly, it showed me that there isn’t just one right way to reach the questions I care about—and that mindset continues to shape how I approach research today.
 
