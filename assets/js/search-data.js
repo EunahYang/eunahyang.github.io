@@ -445,17 +445,17 @@ ninja.data = [{
           title: 'Parasite-induced hypercoagulability and its potential harmful effect on cerebrovascular system',
           description: "[&quot;2020-2022&quot;]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/eosinophil_bbb/";
-            },},{id: "projects-pd-amyloid",
-          title: 'PD Amyloid',
-          description: "PD heterogeneity explained with Amyloid Beta",
+              window.location.href = "/projects/eosinophil-bbb/";
+            },},{id: "projects-association-of-amyloid-copathology-and-white-matter-network-in-parkinson-disease",
+          title: 'Association of amyloid copathology and white matter network in Parkinson’ disease',
+          description: "[&quot;2023-2025&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pd-amyloid/";
             },},{id: "projects-in-vivo-imaging-of-functional-hyperemia-in-arterial-stiffness-model",
           title: 'In vivo imaging of functional hyperemia in arterial stiffness model',
           description: "[2022]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/pericyte_NVJ/";
+              window.location.href = "/projects/pericyte-NVJ/";
             },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
           title: 'Transdiagnostic approach to psychiatric disorders in adolescents',
           description: "hehehe",
