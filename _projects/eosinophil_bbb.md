@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Eosinophilia induced brain hypoxia
+title: Parasite-induced Hypercoagulability and Its Potential Harmful Effect on Cerebrovascular System
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/eosinophil_thumbnail.jpg
 importance: 3
 category: Past
 ---
+
+Parasite-induced Hypercoagulability and Its Potential Harmful Effect on Cerebrovascular System
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
