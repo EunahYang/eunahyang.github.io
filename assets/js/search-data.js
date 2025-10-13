@@ -442,8 +442,8 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/a2a/";
             },},{id: "projects-parasite-induced-hypercoagulability-and-its-potential-harmful-effect-on-cerebrovascular-system",
-          title: 'Parasite-induced Hypercoagulability and Its Potential Harmful Effect on Cerebrovascular System',
-          description: "a project with a background image",
+          title: 'Parasite-induced hypercoagulability and its potential harmful effect on cerebrovascular system',
+          description: "[&quot;2020-2022&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eosinophil_bbb/";
             },},{id: "projects-pd-amyloid",
