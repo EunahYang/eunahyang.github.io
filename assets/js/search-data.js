@@ -445,7 +445,7 @@ ninja.data = [{
           title: 'Parasite-induced hypercoagulability and its potential harmful effect on cerebrovascular system',
           description: "[&quot;2020-2022&quot;]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/eosinophil-bbb/";
+              window.location.href = "/projects/eosinophil_bbb/";
             },},{id: "projects-pd-amyloid",
           title: 'PD Amyloid',
           description: "PD heterogeneity explained with Amyloid Beta",
@@ -455,7 +455,7 @@ ninja.data = [{
           title: 'In vivo imaging of functional hyperemia in arterial stiffness model',
           description: "[2022]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/pericyte-NVJ/";
+              window.location.href = "/projects/pericyte_NVJ/";
             },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
           title: 'Transdiagnostic approach to psychiatric disorders in adolescents',
           description: "hehehe",
