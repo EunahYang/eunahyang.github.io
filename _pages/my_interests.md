@@ -2,7 +2,7 @@
 layout: page
 permalink: /Research Interests/
 title: Research Interests
-description: What excites me keeps changing. Here are my past and current curiosities. Reading from the bottom section may help, since this is in reverse chronological order.
+description: What excites me keeps changing. Here are my past record of academic journey and current curiosities. Reading from the bottom section may help, since this is in reverse chronological order.
 nav: true
 nav_order: 1
 ---
@@ -15,9 +15,9 @@ Luckily, my master lab also did human brain MRI studies alongside with mouse exp
 
 <h5 style="font-weight:700;">First half of the master's program</h5>
 During the first half of my master’s program, I worked on
-I was fascinated by how manipulating specific circuits could alter behavioral phenotypes, and I was just beginning to handle two-photon imaging and surgery independently.
+I was fascinated by how manipulating specific circuits could alter behavioral phenotypes, and I was just beginning to handle two-photon imaging and surgery independently. If you don't mind some early and unpolished ideas from that time, you can take a look [here.](https://eunahyang.github.io/projects/pericyte_NVJ/)
 
-This is the sad part: I couldn't further develop or finish this project. My existing mouse allergy (I had managed with medication) became severely sansitized during the study, and I eventually experienced anaphylactic shocks that made it impossible to even breathe in the same room with mice.
+This is the sad part: I couldn't further develop or finish this project. My existing mouse allergy (I had managed with medication) became severely sansitized during this study, and I eventually experienced anaphylactic shocks that made it impossible to even breathe in the same room with mice.
 
 <h5 style="font-weight:700;">Undergraduate years</h5>
 I majored in biology, studying traditional disciplines such as biochem, genetics, molecular, cellular, and developmental biology. My first exposure to neuroscience came during a short summer session at UC Berkeley, where I found how differently the brain could be studied compared to the biology I have known.  
@@ -26,6 +26,6 @@ Later, I had the opportunity to return to Berkeley through a fully funded exchan
 
 After returning to Korea, I began my first research internship. At that time, I was obsessed with the idea of what makes something truly <i>interventible</i>. I thought meaningful interventions should target modifiable factors, mostly external or physiological influences rather than fixed genetics. If such factors broadly affect people, modifying those chould have a wider impact.
 
-Therefore, I focused on the <i>Blood</i> which circulates throughout the whole body, and immune system as an alternating factor that could make blood sticky and hypercoagulable(easy to form blood clots). Rather than the immune system's role in identifying enemies or cytotoxic cascades, I was more interested in the systemic and indirect effects that may influence the brain. The notion of the brain as an immune previleged organ felt incomplete, especially as COVID-19 revealed cognitive symptoms like brain fog. Through a small exploratory project using infected mice, I observed how immune activation might change the characteristic of the blood, and alter blood-brain-barrier integrity and vulnerable to hypoxic stress.
+Therefore, I focused on the <i>Blood</i> which circulates throughout the whole body, and immune system as an alternating factor that could make blood sticky and hypercoagulable(easy to form blood clots). Rather than the immune system's role in identifying enemies or cytotoxic cascades, I was more interested in the systemic and indirect effects that may influence the brain. The notion of the brain as an immune previleged organ felt incomplete, especially as COVID-19 revealed cognitive symptoms like brain fog. Through a small exploratory project using infected mice, I observed how immune activation might change the characteristic of the blood, and alter blood-brain-barrier integrity and vulnerable to hypoxic stress. For detailed information of this project, [click here](https://eunahyang.github.io/projects/eosinophil_bbb/)
 
 Through that project, I began to study brain vasculature and realized how dynamic it is. I learned that blood flow can contributes to the clearance system (such as glympathic pathway), and those blood flow could be altered by neurovascular coupling. Growing interest in coordination between neural activity and local blood supply shaped the direction of my master's program.
