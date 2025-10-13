@@ -12,7 +12,13 @@ asdfasdf
 
 <h5 style="font-weight:700;">Second half of the master's program</h5>
 
-Luckily, my master lab also did human brain MRI studies alongside with mouse experiments, and I decided to transit from the wet lab to the dry lab.
+Luckily, my master’s lab also conducted human brain MRI studies alongside the animal experiments, and I decided to make a bold transition from the wet lab to the dry lab. The first few months were honestly rough—I didn’t even know how to open a file without double-clicking it, and every term sounded like a foreign language. Neuroimaging preprocessing and analysis pipelines felt completely disconnected from the wet-lab “protocol” world I was used to. I didn’t know what I didn’t know, and that uncertainty was overwhelming.
+
+With patient guidance from my labmates, I slowly began to piece things together. They showed me how to run PET analyses step by step, and I wrote everything down, repeating the process until it started to make sense. I still remember the thrill when I first opened a 3D MRI volume, and later when I ran my first voxel-based analysis and saw clusters appear on the screen—*I actually did this*. 
+
+Moving into the dry lab also changed how I thought about the brain. In mouse studies, I was used to tracing relatively direct cause-and-effect relationships within defined circuits. But in human brain networks, I found myself looking at something closer to real life: multiple regions interacting, forming patterns that change together. That shift—from single circuits to distributed networks—was a turning point for me. It didn’t negate what I had learned before (the brain is both a collection of cells and a network); it simply added a new dimension. 
+
+I took that step out of necessity, but it turned out to be one of the best decisions I’ve made. The experience taught me that even when the path feels uncertain, it’s possible to learn and rebuild from scratch. More importantly, it showed me that there isn’t just one right way to reach the questions I care about—and that mindset continues to shape how I approach research today.
 
 <h5 style="font-weight:700;">First half of the master's program</h5>
 
