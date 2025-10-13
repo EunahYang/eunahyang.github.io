@@ -14,12 +14,14 @@ asdfasdf
 Luckily, my master lab also did human brain MRI studies alongside with mouse experiments, and I decided to transit from the wet lab to the dry lab.
 
 <h5 style="font-weight:700;">First half of the master's program</h5>
+
 During the first half of my master’s program, I worked on
 I was fascinated by how manipulating specific circuits could alter behavioral phenotypes, and I was just beginning to handle two-photon imaging and surgery independently. If you don't mind some early and unpolished ideas from that time, you can take a look [here.](https://eunahyang.github.io/projects/pericyte_NVJ/)
 
 This is the sad part: I couldn't further develop or finish this project. My existing mouse allergy (I had managed with medication) became severely sansitized during this study, and I eventually experienced anaphylactic shocks that made it impossible to even breathe in the same room with mice.
 
 <h5 style="font-weight:700;">Undergraduate years</h5>
+
 I majored in biology, studying traditional disciplines such as biochem, genetics, molecular, cellular, and developmental biology. My first exposure to neuroscience came during a short summer session at UC Berkeley, where I found how differently the brain could be studied compared to the biology I have known.  
 
 Later, I had the opportunity to return to Berkeley through a fully funded exchange semester in 2020. Among all the courses I took, <i>Genetic Factors of Neuropsychology</i> changed how I thought about science. Until then, I had viewed “intervention” only through pharmacological means. But when the professor discussed the transition from DSM-IV to DSM-5 and how redefining autism as a spectrum could expand access to care and insurance coverage, it was such a <i>eureka</i> moment for me. I realized that research doesn’t need to end with a prescription to have an impact. (Yet, developing drugs with proven efficacy is surely crucial) Sometimes, understanding a disorder more accurately, redefining its boundaries, and carefully measuring its risk factors could directly improve lives. That was the moment I began to see neuroscience not just as molecular mechanisms of the brain, but as a way to connect scientific understanding to real human outcomes.
