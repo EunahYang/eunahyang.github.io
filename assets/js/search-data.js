@@ -436,9 +436,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-atlas-to-atlas-transformation",
-          title: 'Atlas to Atlas transformation',
-          description: "discrepancy between human brain atlases",
+            },},{id: "projects-atlas-to-atlas-transformation-model",
+          title: 'Atlas to Atlas transformation model',
+          description: "[&quot;2025-&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/a2a/";
             },},{id: "projects-parasite-induced-hypercoagulability-and-its-potential-harmful-effect-on-cerebrovascular-system",
