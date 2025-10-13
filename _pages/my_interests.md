@@ -20,6 +20,8 @@ Moving into the dry lab also changed how I thought about the brain. In mouse stu
 
 I took that step out of necessity, but it turned out to be one of the best decisions I’ve made. The experience taught me that even when the path feels uncertain, it’s possible to learn and rebuild from scratch. More importantly, it showed me that there isn’t just one right way to reach the questions I care about—and that mindset continues to shape how I approach research today.
 
+This project is in its final stage(manuscript polishing중이야), almost ready to submit! Hope to share my first publication real soon. Brief information of this project, you can [click here](https://eunahyang.github.io/projects/pd-amyloid/) for more information and my posters.
+
 <h5 style="font-weight:700;">First half of the master's program</h5>
 
 During the first half of my master’s program, I was interested in how the brain distributes energy and manages local blood flow. I was curious how this coupling is regulated: neuronal signaling operates on a millisecond timescale, whereas vessel dilation and contraction are much slower. How does the brain keep the timing in sync?
