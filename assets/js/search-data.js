@@ -441,8 +441,8 @@ ninja.data = [{
           description: "discrepancy between human brain atlases",
           section: "Projects",handler: () => {
               window.location.href = "/projects/a2a/";
-            },},{id: "projects-eosinophilia-induced-brain-hypoxia",
-          title: 'Eosinophilia induced brain hypoxia',
+            },},{id: "projects-parasite-induced-hypercoagulability-and-its-potential-harmful-effect-on-cerebrovascular-system",
+          title: 'Parasite-induced Hypercoagulability and Its Potential Harmful Effect on Cerebrovascular System',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eosinophil_bbb/";
