@@ -456,11 +456,11 @@ ninja.data = [{
           description: "[2022]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pericyte-NVJ/";
-            },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
-          title: 'Transdiagnostic approach to psychiatric disorders in adolescents',
+            },},{id: "projects-neuroimaging-based-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
+          title: 'Neuroimaging-based transdiagnostic approach to psychiatric disorders in adolescents',
           description: "[&quot;2024-&quot;]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/transdiagnostics_adolescent/";
+              window.location.href = "/projects/transdiagnostics/";
             },},{
         id: 'social-email',
         title: 'email',
