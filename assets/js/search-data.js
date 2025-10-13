@@ -455,7 +455,7 @@ ninja.data = [{
           title: 'In vivo imaging of functional hyperemia in arterial stiffness model',
           description: "[2022]",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/pericyte_NVJ/";
+              window.location.href = "/projects/pericyte-NVJ/";
             },},{id: "projects-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
           title: 'Transdiagnostic approach to psychiatric disorders in adolescents',
           description: "hehehe",
