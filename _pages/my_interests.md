@@ -8,6 +8,17 @@ nav_order: 1
 ---
 
 <h5 style="font-weight:700;">Current</h5>
+What defines individuals cognitive process and how can we quantify those in 
+
+Research Question 1
+
+Research Question 2
+
+Research Question 3
+
+
+
+
 Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. Series of new questions began to emerge. Below is a schema of my current questions.
 
 <div class="row">
