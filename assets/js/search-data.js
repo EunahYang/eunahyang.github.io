@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Last updated in October 2025",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/CV/";
           },
         },{id: "nav-personal",
           title: "Personal",
