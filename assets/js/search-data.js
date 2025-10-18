@@ -431,16 +431,16 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-atlas-to-atlas-transformation-model",
           title: 'Atlas to Atlas transformation model',
           description: "[&quot;2025-&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/a2a/";
+            },},{id: "projects-similarity-based-patient-identification",
+          title: 'Similarity-based Patient Identification',
+          description: "2024-",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/delta_check/";
             },},{id: "projects-parasite-induced-hypercoagulability-and-its-potential-harmful-effect-on-cerebrovascular-system",
           title: 'Parasite-induced hypercoagulability and its potential harmful effect on cerebrovascular system',
           description: "[&quot;2020-2022&quot;]",
