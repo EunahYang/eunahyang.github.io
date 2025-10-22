@@ -27,6 +27,7 @@ latest_posts:
 ---
 
 Hi, I am Eunah(pronounce: ɯna) and I study network neuroscience.
+
 I'm interested on why do individuals interpret and adapt to the world differently? Individuals show distinct patterns of perception, attention, cognitive processes, and adaptability to external stimuli/demands. I want to focus on heterogeneity not as noise but as meaningful variability that is ignored and flattened during case-control studies. For more about my research directions and evolving interests, please [click here](https://eunahyang.github.io/Research%20Interests/).
 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). I use brain MRIs to quantify? brain networks and .
