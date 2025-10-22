@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cross-atlas connectome transformation modeling: addressing atlas-dependent discrepancies in brain network analysis
+title: "Cross-atlas connectome transformation modeling: addressing atlas-dependent discrepancies in brain network analysis"
 description: [2025-]
 img: assets/img/a2a-thumbnail.jpg
 importance: 1
