@@ -11,7 +11,12 @@ related_publications: false
 Consider......
 sdfasdfasdf
 
-** This project was presented sssss
+Presentations
+- OHBM 2024, Organization for Human Brain Mapping Conference Seoul, Korea (2024, June 24-25)
+- KHBM 2023 Fall Conference, Korean Society of Human Brain Mapping Conference, Suwon, Korea (2023, October 27-28)
+
+Status
+This project is nearly ready for manuscript submission
 
 Presentation Material:
 <div style="position:relative; padding-top: 0;">
