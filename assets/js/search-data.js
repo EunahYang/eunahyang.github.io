@@ -416,12 +416,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -436,6 +431,11 @@ ninja.data = [{
           description: "[&quot;2025-&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/a2a/";
+            },},{id: "projects-bioinformatics-er-bc",
+          title: 'Bioinformatics_ER+BC',
+          description: "2020",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bioinfo_erbc/";
             },},{id: "projects-similarity-based-patient-identification",
           title: 'Similarity-based Patient Identification',
           description: "2024-",
