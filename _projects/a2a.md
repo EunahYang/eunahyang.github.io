@@ -5,7 +5,7 @@ description: [2025-]
 img: assets/img/a2a-thumbnail.jpg
 importance: 1
 category: Current
-giscus_comments: false
+# giscus_comments: false
 ---
 
 Publicly available neuroimaging datasets typically provide preprocessed, parcellated data (e.g., brain connectomes) based on specific brain atlases as a pragmatic solution to maximize data accessibility and reuse under privacy, computational, and storage constraints. However, reliance on predefined parcellations limits interoperability, as structural or functional connectomes (FC) from different atlases cannot be directly compared due to variations in spatial distribution. Understanding and resolving these atlas-dependent differences is essential for improving reproducibility in connectome-based brain research.
