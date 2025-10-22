@@ -8,3 +8,5 @@ category: Past
 ---
 
 Parasite-induced Hypercoagulability and Its Potential Harmful Effect on Cerebrovascular System
+
+https://drive.google.com/file/d/1w0emlieyUD88ti_X7bfvEqgD41AO0XH4/view?usp=sharing
