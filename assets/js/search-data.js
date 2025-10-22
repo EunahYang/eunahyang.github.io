@@ -458,7 +458,7 @@ ninja.data = [{
               window.location.href = "/projects/pericyte-NVJ/";
             },},{id: "projects-neuroimaging-based-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
           title: 'Neuroimaging-based transdiagnostic approach to psychiatric disorders in adolescents',
-          description: "[&quot;2024-&quot;]",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transdiagnostics/";
             },},{
