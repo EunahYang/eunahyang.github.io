@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bioinformatics_ER+BC
+title: Differential gene expression and functional profiling in ER+ recurrent breast cancer
 description: 2020
 img: assets/img/bioinfo_thumbnail.jpg
 importance: 4
