@@ -2,14 +2,14 @@
 layout: page
 title: Bioinformatics_ER+BC
 description: 2020
-img: assets/img/5.jpg
+img: assets/img/bioinfo_thumbnail.jpg
 importance: 4
 category: Past
 ---
 
 (Due to COVID-19, my first internship was done virtually)
 
-0000000
+
 
 Full history of bioinformatics pipeline in Stem-Away virtual internship: [Self-assessment](https://stemaway.com/t/eunahyang-bioinformatics-pathway/5337)
 
