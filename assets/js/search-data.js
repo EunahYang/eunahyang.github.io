@@ -431,8 +431,8 @@ ninja.data = [{
           description: "[&quot;2025-&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/a2a/";
-            },},{id: "projects-bioinformatics-er-bc",
-          title: 'Bioinformatics_ER+BC',
+            },},{id: "projects-differential-gene-expression-and-functional-profiling-in-er-recurrent-breast-cancer",
+          title: 'Differential gene expression and functional profiling in ER+ recurrent breast cancer',
           description: "2020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_erbc/";
