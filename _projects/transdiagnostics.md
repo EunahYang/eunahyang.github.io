@@ -4,8 +4,8 @@ title: Neuroimaging-based transdiagnostic approach to psychiatric disorders in a
 description: 
 img: assets/img/transdiagnostics_thumbnail.jpg
 importance: 3
-category: deactivated
+category: Current
 # redirect: https://unsplash.com
 ---
 
-Description here
+** Concept **
