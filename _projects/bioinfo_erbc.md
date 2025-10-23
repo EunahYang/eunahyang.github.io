@@ -7,7 +7,7 @@ importance: 4
 category: Past
 ---
 
-(Due to COVID-19, my first internship was done virtually)
+> quote block teest
 
 
 
