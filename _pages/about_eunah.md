@@ -14,7 +14,7 @@ Jan 2020 - May 2020
 
 <h5 style="font-weight:700;">Behind the Research</h5>
 
-div class="row">
+<div class="row">
   <div class="col-sm">
     {% include figure.liquid path="assets/img/3.jpg" class="img-fluid rounded z-depth-1" %}
     <div class="caption">Lab ski trip — winter 2024</div>
