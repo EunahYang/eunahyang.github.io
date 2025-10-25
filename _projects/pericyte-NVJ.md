@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In vivo imaging of functional hyperemia in arterial stiffness model
+title: Mechanical constraints on neurovascular coupling: impact of arterial stiffness on functional hyperemia and microvascular flow regulation
 description: [2022]
 img: assets/img/pericyte_thumbnail.jpg
 importance: 2
