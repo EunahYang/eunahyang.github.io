@@ -29,48 +29,53 @@ Jan 2020 - May 2020
   </div>
 </div>
 
-<div class="row align-items-center">
-  <div class="col-sm-5">
-    {% include figure.liquid
-       path="assets/img/3.jpg"
-       title="Night School Volunteering"
-       class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Night School — community science session</div>
+<div class="container px-0">
+  <div class="row align-items-center">
+    <div class="col-sm-5">
+      {% include figure.liquid
+         path="assets/img/3.jpg"
+         title="Night School Volunteering"
+         class="img-fluid rounded z-depth-1" %}
+      <div class="caption">Night School — community science session</div>
+    </div>
+    <div class="col-sm-7">
+      <h5>Night School Outreach</h5>
+      <p>Adults from diverse professions joined weekly science workshops.
+         I designed hands-on demos and short explainers to support lifelong learning.</p>
+    </div>
   </div>
-  <div class="col-sm-7">
-    <h5>Night School Outreach</h5>
-    <p>Adults from diverse professions joined weekly science workshops.
-       I designed hands-on demos and short explainers to support lifelong learning.</p>
+  <div class="row align-items-center">
+    <div class="col-sm-5">
+      {% include figure.liquid
+         path="assets/img/3.jpg"
+         title="Night School Volunteering"
+         class="img-fluid rounded z-depth-1" %}
+      <div class="caption">Night School — community science session</div>
+    </div>
+    <div class="col-sm-7">
+      <h5>Night School Outreach</h5>
+      <p>Adults from diverse professions joined weekly science workshops.
+         I designed hands-on demos and short explainers to support lifelong learning.</p>
+    </div>
+  </div>
+  <div class="row align-items-center">
+    <div class="col-sm-5">
+      {% include figure.liquid
+         path="assets/img/3.jpg"
+         title="Night School Volunteering"
+         class="img-fluid rounded z-depth-1" %}
+      <div class="caption">Night School — community science session</div>
+    </div>
+    <div class="col-sm-7">
+      <h5>Night School Outreach</h5>
+      <p>Adults from diverse professions joined weekly science workshops.
+         I designed hands-on demos and short explainers to support lifelong learning.</p>
+    </div>
   </div>
 </div>
-<div class="row align-items-center">
-  <div class="col-sm-5">
-    {% include figure.liquid
-       path="assets/img/3.jpg"
-       title="Night School Volunteering"
-       class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Night School — community science session</div>
-  </div>
-  <div class="col-sm-7">
-    <h5>Night School Outreach</h5>
-    <p>Adults from diverse professions joined weekly science workshops.
-       I designed hands-on demos and short explainers to support lifelong learning.</p>
-  </div>
-</div>
-<div class="row align-items-center">
-  <div class="col-sm-5">
-    {% include figure.liquid
-       path="assets/img/3.jpg"
-       title="Night School Volunteering"
-       class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Night School — community science session</div>
-  </div>
-  <div class="col-sm-7">
-    <h5>Night School Outreach</h5>
-    <p>Adults from diverse professions joined weekly science workshops.
-       I designed hands-on demos and short explainers to support lifelong learning.</p>
-  </div>
-</div>
+
+
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
