@@ -451,9 +451,9 @@ ninja.data = [{
           description: "[&quot;2023-2025&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pd-amyloid/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-mechanical-constraints-on-neurovascular-coupling-impact-of-arterial-stiffness-on-functional-hyperemia-and-microvascular-flow-regulation",
+          title: 'Mechanical constraints on neurovascular coupling impact of arterial stiffness on functional hyperemia and...',
+          description: "[2022]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pericyte-NVJ/";
             },},{id: "projects-neuroimaging-based-transdiagnostic-approach-to-psychiatric-disorders-in-adolescents",
