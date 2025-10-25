@@ -30,11 +30,11 @@ Hi, I am Eunah(pronounce: ɯna) and I study network neuroscience.
 
 I'm interested on why do individuals interpret and adapt to the world differently? Individuals show distinct patterns of perception, attention, cognitive processes, and adaptability to external stimuli/demands. I want to focus on heterogeneity not as noise but as meaningful variability that is ignored and flattened during case-control studies. For more about my research directions and evolving interests, please [click here](https://eunahyang.github.io/Research%20Interests/).
 
-Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). I use brain MRIs to quantify? brain networks and .
+Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). I use brain MRIs to quantify? brain networks, connectome based prediction, . [You can take a look at my current project including conceptual works by clicking here.](https://eunahyang.github.io/projects/#Current)
 
 Before this, I received my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/pd-amyloid/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. 
 
-Earlier, I earned my B.S. in Life Sceince at GIST, where I did my [very first research internship](https://eunahyang.github.io/projects/eosinophil-bbb/) in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. I explored how eosinophilia-induced hypoxia affects brain vasculature integrity in mice.
+Earlier, I earned my B.S. in Life Sceince at GIST, where I did my [very first individual project](https://eunahyang.github.io/projects/eosinophil-bbb/) in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. I explored how eosinophilia-induced hypoxia affects brain vasculature integrity in mice.
 
 <!--
 Formats:
