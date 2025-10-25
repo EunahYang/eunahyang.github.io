@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mechanical constraints on neurovascular coupling: impact of arterial stiffness on functional hyperemia and microvascular flow regulation
+title: "Mechanical constraints on neurovascular coupling impact of arterial stiffness on functional hyperemia and microvascular flow regulation"
 description: [2022]
 img: assets/img/pericyte_thumbnail.jpg
 importance: 2
