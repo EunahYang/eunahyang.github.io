@@ -14,9 +14,56 @@ Berkeley Global Access Program in Molecular and Cell biology<br>
 Jan 2020 - May 2020
 
 
+<h5 style="font-weight:700;">Education</h5>
+
+Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea<br>
+M.S. in Bio and Brain Engineering<br>
+Thesis: Distribution of amyloid Beta and Its Influence on Neuropsychiatric Symptoms in Parkinson’s Disease<br>
+Feb 2022 - Feb 2024
+
+Gwangju Insitute of Science and Technology (GIST), Gwangju, Korea<br>
+B.S. in Life Science<br>
+Mar 2017 - Feb 2022
+
+University of California, Berkeley, Berkeley, CA, USA<br>
+Berkeley Global Access Program in Molecular and Cell biology<br>
+Jan 2020 - May 2020
+
+
+<h5 style="font-weight:700;">Education</h5>
+
+Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea<br>
+M.S. in Bio and Brain Engineering<br>
+Thesis: Distribution of amyloid Beta and Its Influence on Neuropsychiatric Symptoms in Parkinson’s Disease<br>
+Feb 2022 - Feb 2024
+
+Gwangju Insitute of Science and Technology (GIST), Gwangju, Korea<br>
+B.S. in Life Science<br>
+Mar 2017 - Feb 2022
+
+University of California, Berkeley, Berkeley, CA, USA<br>
+Berkeley Global Access Program in Molecular and Cell biology<br>
+Jan 2020 - May 2020
+
+
+<h5 style="font-weight:700;">Education</h5>
+
+Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea<br>
+M.S. in Bio and Brain Engineering<br>
+Thesis: Distribution of amyloid Beta and Its Influence on Neuropsychiatric Symptoms in Parkinson’s Disease<br>
+Feb 2022 - Feb 2024
+
+Gwangju Insitute of Science and Technology (GIST), Gwangju, Korea<br>
+B.S. in Life Science<br>
+Mar 2017 - Feb 2022
+
+University of California, Berkeley, Berkeley, CA, USA<br>
+Berkeley Global Access Program in Molecular and Cell biology<br>
+Jan 2020 - May 2020
 
 
 
+<!--
 
 <h5 style="font-weight:700;">Behind the Research</h5>
 
@@ -97,3 +144,5 @@ The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
+
+-->
