@@ -1,4 +1,5 @@
-<h5 style="font-weight:700;">Education</h5>
+-
++<h5 style="font-weight:700;">Education</h5>
 
 Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea<br>
 M.S. in Bio and Brain Engineering<br>
