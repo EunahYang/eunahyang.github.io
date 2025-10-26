@@ -20,5 +20,7 @@ These questions led me to examine the mechanical side of neurovascular control â
     </div>
 </div>
 <div class="caption">
-    Viscious cycle of vascular Calcification. Calcified vessels have trouble buffering mechanical stresses exerted in the vessel wall.
+    Vicious cycle of vascular Calcification. Calcified vessels have trouble buffering mechanical stresses exerted in the vessel wall.
 </div>
+
+This project was originally designed as an in-vivo study using two-photon calcium imaging in transgenic mice to longitudinally observe how arterial stiffness alters neurovascular dynamics. The experiment involved microsurgical induction of carotid calcification to model chronic vascular stiffening. However, after developing a severe allergic and ultimately anaphylactic reaction to mice, I had to discontinue the animal work. Although it was an unexpected setback, it became a turning point in my research path. After this event, I shifted towards to human neuroimaging and computational modeling and study brain-wide networks and dynamic systems.
