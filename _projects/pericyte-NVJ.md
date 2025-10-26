@@ -16,8 +16,8 @@ category: Past
     This image can also have a caption. It's like magic.
 </div>
 
-The brain dynamically redistributes blood flow to meet local energy demands — a process known as *neurovascular coupling (NVC)*.  
-But this coupling depends not only on neural or metabolic signaling, but also on the **mechanical properties of the vascular network** itself.
+The brain is an energy-hungry organ that continuously consumes resources from blood to sustain its neuronal activity. The demand varies across regions and changes dynamically as local neural populations transiently require more substance exchanges. The process that regulates blood supply to this dynamic metabolic needs is known as neurovascular coupling (NVC). And this coupling is possible by the contractile cells that wraps the blood vessels and these finely controls vascular tone and perfusion.
+
 
 This project began with a simple curiosity: if vascular calcification or stiffness alters the hemodynamic environment, how does that affect the brain’s ability to fine-tune blood supply?  
 Changes in vessel compliance can distort shear stress, bias red blood cell flux, and disrupt the coordination of flow across microvascular networks.  
@@ -33,11 +33,6 @@ The brain constantly regulates its blood flow to match local activity — a phen
 I was particularly intrigued by how **systemic and vascular mechanical factors** might set the boundary conditions for NVC. Physiological changes such as arterial stiffness, vascular calcification, and hemodynamic force imbalance alter the compliance of blood vessels and the distribution of shear stress along the vessel wall. These changes can bias the flow of red blood cells, disturb the uniformity of oxygen delivery, and accumulate mechanical stress within small vessels. Although such processes have been well-characterized in cardiovascular physiology, their consequences within the cerebral microcirculation remain less understood.
 
 At the microvascular scale, **pericytes** are thought to regulate capillary tone and mediate localized adjustments in blood flow. However, pericytes are structurally heterogeneous and sparse in the deeper capillary orders, where contractile regulation becomes limited. This raises a fundamental question: how does the brain maintain its remarkable spatial precision in blood flow control in regions that lack sufficient contractile support? Could passive mechanics and upstream vascular dynamics alone coordinate energy distribution, or is there an additional layer of flow organization we do not yet capture in current imaging?
-
-
-
-
-
 
 The project was designed to probe these questions conceptually. Using the framework of **vascular stiffness and disturbed flow as mechanical perturbations**, I aimed to understand how the coupling between neuronal activity, vascular resistance, and oxygen metabolism might reorganize under mechanical stress. I speculated that under increased stiffness, the temporal synchronization between neuronal activation and local perfusion — the very basis of the BOLD signal — could begin to decouple, revealing new physiological signatures of vascular fragility.
 
