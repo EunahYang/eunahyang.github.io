@@ -18,10 +18,20 @@ category: Past
 
 The brain is an energy starved organ that continuously consumes resources from blood to sustain its neuronal activity. The demand varies across regions and changes dynamically as local neural populations transiently require more substance exchanges. The process that regulates blood supply to this dynamic metabolic needs is known as neurovascular coupling (NVC). And this coupling is possible by the contractile cells that wraps the blood vessels and these finely controls vascular tone and perfusion.
 
+What intrigued me most was not how this system works under ideal conditions, but how it **maintains precision under physical limitations.** Deep within the capillary network, where contractile support is sparse and pericytes are morphologically heterogeneous, the brain still manages to fine-tune its blood flow with remarkable spatial and temporal accuracy. *How can such precision persist in regions that lack active contractility?* Could passive mechanics and upstream hemodynamics alone coordinate the redistribution of energy, or is there an additional layer of flow organization that our current imaging methods fail to capture?
+
+These questions led me to examine the **mechanical side of neurovascular control** — to think of vascular properties as boundary conditions that shape how neural activity is translated into blood flow. Physiological factors such as arterial stiffness, vascular calcification, or altered shear stress can change the compliance of vessels and distort local hemodynamic responses. These mechanical alterations may bias red blood cell flux, slow the evolution of cerebral blood volume, and ultimately disrupt the coupling between neural activity and cerebral blood flow. In this sense, vascular mechanics define not just how much blood reaches the brain, but how precisely and responsively it can do so.
 
 This project began with a simple curiosity: if vascular calcification or stiffness alters the hemodynamic environment, how does that affect the brain’s ability to fine-tune blood supply?  
 Changes in vessel compliance can distort shear stress, bias red blood cell flux, and disrupt the coordination of flow across microvascular networks.  
 Such effects may be particularly critical in **deep capillary regions** where contractile pericytes are sparse, yet localized and temporally precise NVC still occurs.
+
+I was particularly intrigued by how **systemic and vascular mechanical factors** might set the boundary conditions for NVC. Physiological changes such as arterial stiffness, vascular calcification, and hemodynamic force imbalance alter the compliance of blood vessels and the distribution of shear stress along the vessel wall. These changes can bias the flow of red blood cells, disturb the uniformity of oxygen delivery, and accumulate mechanical stress within small vessels. Although such processes have been well-characterized in cardiovascular physiology, their consequences within the cerebral microcirculation remain less understood.
+
+At the microvascular scale, **pericytes** are thought to regulate capillary tone and mediate localized adjustments in blood flow. However, pericytes are structurally heterogeneous and sparse in the deeper capillary orders, where contractile regulation becomes limited. This raises a fundamental question: how does the brain maintain its remarkable spatial precision in blood flow control in regions that lack sufficient contractile support? Could passive mechanics and upstream vascular dynamics alone coordinate energy distribution, or is there an additional layer of flow organization we do not yet capture in current imaging?
+
+
+
 
 I explored the idea that **vascular mechanics serve as a boundary condition for NVC**, shaping when and how neural activity is translated into blood flow.  
 Although the work remained conceptual and preliminary, it became a foundation for my current interest in **computational modeling of energy distribution and dynamic state transitions in the brain**.
