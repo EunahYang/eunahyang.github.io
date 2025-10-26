@@ -16,7 +16,7 @@ category: Past
     This image can also have a caption. It's like magic.
 </div>
 
-The brain is an energy-hungry organ that continuously consumes resources from blood to sustain its neuronal activity. The demand varies across regions and changes dynamically as local neural populations transiently require more substance exchanges. The process that regulates blood supply to this dynamic metabolic needs is known as neurovascular coupling (NVC). And this coupling is possible by the contractile cells that wraps the blood vessels and these finely controls vascular tone and perfusion.
+The brain is an energy starved organ that continuously consumes resources from blood to sustain its neuronal activity. The demand varies across regions and changes dynamically as local neural populations transiently require more substance exchanges. The process that regulates blood supply to this dynamic metabolic needs is known as neurovascular coupling (NVC). And this coupling is possible by the contractile cells that wraps the blood vessels and these finely controls vascular tone and perfusion.
 
 
 This project began with a simple curiosity: if vascular calcification or stiffness alters the hemodynamic environment, how does that affect the brain’s ability to fine-tune blood supply?  
