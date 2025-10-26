@@ -7,15 +7,6 @@ importance: 2
 category: Past
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
 The brain is an energy starved organ that continuously consumes resources from blood to sustain its neuronal activity. The demand varies across regions and changes dynamically as local neural populations transiently require more substance exchanges. The process that regulates blood supply to this dynamic metabolic needs is known as neurovascular coupling (NVC). And this coupling is possible by the contractile cells that wraps the blood vessels and these finely controls vascular tone and perfusion.
 
 What intrigued me most was not how this system works under ideal conditions, but how it **maintains precision under physical limitations.** Deep within the capillary network, where contractile support is sparse and pericytes are morphologically heterogeneous, the brain still manages to fine-tune its blood flow with remarkable spatial and temporal accuracy. *How can such precision persist in regions that lack active contractility?* Could passive mechanics and upstream hemodynamics alone coordinate the redistribution of energy, or is there an additional layer of flow organization that our current imaging methods fail to capture?
@@ -29,6 +20,22 @@ Such effects may be particularly critical in **deep capillary regions** where co
 I was particularly intrigued by how **systemic and vascular mechanical factors** might set the boundary conditions for NVC. Physiological changes such as arterial stiffness, vascular calcification, and hemodynamic force imbalance alter the compliance of blood vessels and the distribution of shear stress along the vessel wall. These changes can bias the flow of red blood cells, disturb the uniformity of oxygen delivery, and accumulate mechanical stress within small vessels. Although such processes have been well-characterized in cardiovascular physiology, their consequences within the cerebral microcirculation remain less understood.
 
 At the microvascular scale, **pericytes** are thought to regulate capillary tone and mediate localized adjustments in blood flow. However, pericytes are structurally heterogeneous and sparse in the deeper capillary orders, where contractile regulation becomes limited. This raises a fundamental question: how does the brain maintain its remarkable spatial precision in blood flow control in regions that lack sufficient contractile support? Could passive mechanics and upstream vascular dynamics alone coordinate energy distribution, or is there an additional layer of flow organization we do not yet capture in current imaging?
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pericyte_thumbnail.jpg" title="Viscious cycle of vascular Calcification" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Viscious cycle of vascular Calcification. Calcified vessels have trouble buffering mechanical stresses exerted in the vessel wall.
+</div>
+
+
+
+
+
+
 
 
 
