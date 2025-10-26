@@ -437,7 +437,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_erbc/";
             },},{id: "projects-similarity-based-patient-identification",
-          title: 'Similarity-based Patient Identification',
+          title: 'Similarity-based patient identification',
           description: "2024-",
           section: "Projects",handler: () => {
               window.location.href = "/projects/delta_check/";
