@@ -16,12 +16,6 @@ Despite the growing recognition of concurrent Alzheimer pathology as one of the 
 
 This retrospective study included patients with PD who underwent 18 F-florbetaben PET, DTI, and neuropsychological assessments. After extracting Aβ-susceptible structural WM networks by comparing DTI-metrics (Fractional anisotropy [FA] and mean diffusivity [MD]) according to Aβ status, multivariate linear regression analyses were performed to explore the potential associations between Aβ burden, integrity of identified WM networks, and clinical measures (cognitive performance and NPS). We then performed mediation analyses to determine whether the network integrity mediated the effect of Aβ on clinical measures.
 
-<img width="451" height="292" alt="image" src="https://github.com/user-attachments/assets/cd5c82b9-b6ca-4ad4-ba5a-899b1e6071b4" />
-
-<img width="813" height="584" alt="image" src="https://github.com/user-attachments/assets/f2b769a3-ff0c-436e-b666-7e4ef3335442" />
-
-
-
 Our findings suggest that coexistent Aβ may elicit additive vulnerability in WM microstructures in patients with PD. Considering the mediating role of WM network integrity in the effect of Aβ on clinical measures, WM network degeneration may serve as a potential intermediate pathway through which Aβ copathology contributes to cognitive and neuropsychiatric manifestation in PD. Together, these findings suggest that Aβ-related WM network vulnerability represents a key intermediate mechanism linking molecular pathology to behavioral phenotypes, offering a network-based perspective on PD heterogeneity.
 
 Presentations:
