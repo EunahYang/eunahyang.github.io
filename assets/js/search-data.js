@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-developing-ideas",
           title: "Developing Ideas",
-          description: "What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order.",
+          description: "This section introduces conceptual lines of work that I am currently developing. These projects originate from my independent research ideas and may include ongoing discussions within my current institution.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Developing%20Ideas/";
+            window.location.href = "/developing-ideas/";
           },
         },{id: "nav-cv",
           title: "CV",
