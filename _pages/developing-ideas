@@ -7,7 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-
+<h4 style="font-weight:700;">Neuroimaging-based transdiagnostic approach to psychiatric disorders</h4>
+<br>
 We still lack objective biomarkers that can reliably diagnose or predict mental health conditions. Much of this limitation arises from the traditional case–control studies, which are built upon assumptions that each disorder has a distinct and isolated causes, and that group averages accurately represent the population. However, individuals within the same diagnosis often show substantial variability in both symptoms and neural patterns, while those across different diagnosis may exhibit considerable overlap. As a result, categorical definition tend to oversimplify the complex and continuous nature of cognition and mental health, making it difficult to bridge psychological constructs (top-down approach) with interpretable neural mechanisms (bottom-up approach) that vary meaningfully across individuals.
 
 <div class="row">
