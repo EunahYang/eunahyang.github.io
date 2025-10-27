@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-developing-ideas",
+          title: "Developing Ideas",
+          description: "What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Developing%20Ideas/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "Last updated in October 2025",
