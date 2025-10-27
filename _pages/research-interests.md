@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<h5 style="font-weight:700;">Current</h5>
+<h4 style="font-weight:700;">Current</h4>
 What defines individuals cognitive process and how can we quantify those in 
 
 Research Question 1
@@ -19,7 +19,9 @@ Research Question 3
 
 
 
-Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. Series of new questions began to emerge. Below is a schema of my current questions.
+Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. 
+
+Series of new questions began to emerge. Below is a schema of my current questions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,7 +38,7 @@ Brief descriptions of my current projects can be found in the ['Current' section
 
 <h4 style="font-weight:700;">Second half of the master's program</h4>
 
-My research began to take a new direction toward human neuroimaging and network-level approaches. It felt like entering an entirely new world. I didn't even know how to open a raw T1 file at first. Everything felt foreign and overly abstract. But as I learned and practiced, I realized that what had felt abstract was simply another language to describe the same brain, but from a network perspective. It was interesting to see how distal brain regions interact and collectively generate human behavior as an output. Working with human MRI felt closer to real life. Instaed of focusing on a single circuit, I was observing patterns of structural and functional patterns that changes over time. 
+My research began to take a new direction toward human neuroimaging and network-level approaches. It felt like entering an entirely new world. I didn't even know how to open a raw T1 file at first. Everything felt foreign and overly abstract. But as I learned and practiced, I realized that what had felt abstract was simply another language to describe the same brain, but from a network perspective. It was interesting to see how distal brain regions interact and collectively generate human behavior as an output. Working with human MRI felt closer to real life. Instaed of focusing on a single circuit, I was observing structural and functional patterns that changes over time. 
 
 Detailed information about the Parkinson's disease project with Yonsei Severance Hospital: [Click here](https://eunahyang.github.io/projects/pd-amyloid/)
 
