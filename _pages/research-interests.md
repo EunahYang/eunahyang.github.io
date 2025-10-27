@@ -46,7 +46,7 @@ I took that step out of necessity, but it turned out to be one of the best decis
 
 This project is now in its final stage, almost ready for submission. I hope to share my first publication soon. You can find a [brief overview of this project and my posters here.](https://eunahyang.github.io/projects/pd-amyloid/)
 
-<h5 style="font-weight:700;">First half of the master's program</h5>
+<h4 style="font-weight:700;">First half of the master's program</h4>
 
 During the first half of my master’s program, I was interested in how the brain distributes energy and manages local blood flow. I was curious how this coupling is regulated: neuronal signaling operates on a millisecond timescale, whereas vessel dilation and contraction are much slower. How does the brain keep the timing in sync?
 
