@@ -8,12 +8,7 @@ category: Current
 # redirect: https://unsplash.com
 ---
 
-We still lack objective biomarkers that can reliably diagnose or predict mental health conditions. Much of this limitation arises from the traditional case–control framework, which presumes that each disorder has a distinct, isolatable cause that can be detected by comparing group averages between patients and controls.
-
-Despite decades of research, psychiatry still lacks reliable biological markers for diagnosis or prognosis. One major factor hindering progress is the persistent use of the case–control paradigm, which assumes that each mental disorder stems from a single underlying cause identifiable through average differences between patients and controls.
-
-Case-control studies are 
-Traditional psychiatric research has largely relied on case–control comparisons, assuming that diagnostic categories can accurately capture differences in brain function. However, individuals within the same diagnosis often show striking variability in both symptoms and neural patterns, while those across different diagnoses may exhibit substantial overlap. This categorical framework—though clinically practical—oversimplifies the complex and continuous nature of mental health, limiting our ability to understand individual variation.
+We still lack objective biomarkers that can reliably diagnose or predict mental health conditions. Much of this limitation arises from the traditional case–control studies, which are built upon assumptions that each disorder has a distinct and isolated causes, and that group averages accurately represent the population. However, individuals within the same diagnosis often show substantial variability in both symptoms and neural patterns, while those across different diagnosis may exhibit considerable overlap. As a result, categorical definition tend to oversimplify the complex and continuous nature of cognition and mental health, making it difficult to bridge psychological constructs (top-down approach) with interpretable neural mechanisms (bottom-up approach) that vary meaningfully across individuals.
 
 To address this, I adopt a transdiagnostic and dimensional approach that replaces binary diagnostic labels with multi-dimensional phenotypic profiles. These profiles are constructed from behavioral assessments such as CBCL and KSADS, representing each individual as a vector in a continuous behavioral space encompassing domains like emotion regulation, impulsivity, and cognitive control. Using connectome-based predictive modeling (CPM), I test whether patterns of functional connectivity can predict these behavioral vectors, thereby modeling psychiatric features as gradients rather than discrete categories.
 
