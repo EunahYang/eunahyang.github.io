@@ -52,9 +52,7 @@ In the early part of my master’s program, I was interested in how how the brai
 
 These questions led me to view neurovascular coupling as a dynamic control problem embedded in a hierarchical vascular network. I learned that the hierarchical organization of the brain vessel especially interesting. Vessels close to proximal branches (or small-order branches) are surrounded by smooth muscle cells with active contractility, but as vessels bifurcate into smaller perforating branches that penetrate deeper into the parenchyma, they are no longer wrapped by smooth muscle cells but by less contractile pericytes and even endothelial cells. This graudal loss of contractility makes deeper vessels respond more paassively. Then how does a neuronal response occurring deep in the tissue communicate upstream to secure the needed blood supply?
 
-Before tackling these questions theoretically, I wanted to first observe the phenomenon in a practical way. I firstly focused on how mechanical stress or arterial stiffness could distort the fine balance between neuronal demand and vascular response, even when pathology doesn't originate from the brain.
-
-This project was an in-vivo imaging study designed to probe these interactions under conditions of induced vascular stiffening. Although I had to discontinue the work after developing severe mouse allergies, this experience was a turning point for me. This prompted me to shift toward network neuroscience with human neuroimaging study.
+Before tackling these big questions, I wanted to start by examining one aspect of the system that mechanical properties of vessels being the boundary conditions for neurovascular coupling. I focused on how mechanical stress (originating from arterial stiffness) could distort the fine balance between neuronal demand and vascular response, even when pathology didn't originate in the brain. Although I had to discontinue this work after developing severe mouse allergies, this experience was a turning point for me to shift toward network neuroscience.
 
 For early stage ideas of that time: [you can take a look here.](https://eunahyang.github.io/projects/pericyte-NVJ/)
 
