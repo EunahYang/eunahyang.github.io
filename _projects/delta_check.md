@@ -3,7 +3,7 @@ layout: page
 title: Similarity-based patient identification
 description: 2024-
 img: assets/img/deltacheck_thumbnail.jpg
-importance: 3
+importance: 2
 category: Current
 ---
 
