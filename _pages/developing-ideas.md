@@ -2,7 +2,7 @@
 layout: page
 permalink: /developing-ideas/
 title: Developing Ideas
-description: This section introduces conceptual lines of work that I am currently developing. These projects originate from my independent research ideas and may include ongoing discussions within my current institution.
+description: This section introduces conceptual lines of work that I am currently developing. These concepts originate from me and may include ongoing discussions with my current PI.
 nav: true
 nav_order: 3
 ---
