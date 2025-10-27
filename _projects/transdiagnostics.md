@@ -8,6 +8,8 @@ category: Current
 # redirect: https://unsplash.com
 ---
 
+<i>This project is a conceptual line of work I am currently developing. Originating from my independent research ideas and ongoing discussions in current institution.</i>
+
 We still lack objective biomarkers that can reliably diagnose or predict mental health conditions. Much of this limitation arises from the traditional case–control studies, which are built upon assumptions that each disorder has a distinct and isolated causes, and that group averages accurately represent the population. However, individuals within the same diagnosis often show substantial variability in both symptoms and neural patterns, while those across different diagnosis may exhibit considerable overlap. As a result, categorical definition tend to oversimplify the complex and continuous nature of cognition and mental health, making it difficult to bridge psychological constructs (top-down approach) with interpretable neural mechanisms (bottom-up approach) that vary meaningfully across individuals.
 
 <div class="row">
@@ -21,7 +23,7 @@ We still lack objective biomarkers that can reliably diagnose or predict mental 
 
 > Can FC predict individual symptom patterns without relying on diagnostic labels?<br> sdfdsf dsf <br> sdfsdfds
 
-To move beyond these categorical limitations, I take a brain-based approach that focuses on individual network patterns rather than predefined diagnostic labels. Instead of predicting a single disorder, each person is represented as a vector of multiple behavioral and cognitive constructs—such as emotional regulation, motivation, and attentional control—derived from population-level assessments. By predicting these multidimensional profiles directly from functional connectomes, this framework captures continuous variation in how brain networks support diverse mental processes. Such a perspective, often described as transdiagnostic, seeks to reveal shared neural mechanisms that span conventional diagnostic boundaries while maintaining sensitivity to individual differences. Ultimately, this allows for a more interpretable and mechanistic understanding of how the brain gives rise to complex behavioral phenotypes.
+To move beyond these categorical limitations, I purpose a brain-based approach that focuses on individual network patterns rather than predefined diagnostic labels. Instead of predicting a single disorder, each person is represented as a vector of multiple behavioral and cognitive constructs—such as emotional regulation, motivation, and attentional control—derived from population-level assessments. By predicting these multidimensional profiles directly from functional connectomes, this framework captures continuous variation in how brain networks support diverse mental processes. Such a perspective, often described as transdiagnostic, seeks to reveal shared neural mechanisms that span conventional diagnostic boundaries while maintaining sensitivity to individual differences. Ultimately, this allows for a more interpretable and mechanistic understanding of how the brain gives rise to complex behavioral phenotypes.
 
 
 
