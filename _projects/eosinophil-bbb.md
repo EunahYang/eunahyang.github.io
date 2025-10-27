@@ -16,7 +16,7 @@ I focused on parasite-induced immune activation as an example. Parasitic infecti
 This project shaped my early interest in the relationship between brain and cerebrovasculature, where systemic conditions can influence the brain indirectly. It also led me toward later questions about neurovascular coupling and the glymphatic system, deepening my fascination with the brain circulation and its function.
 
 Presentation:
-- Department-wide undergraduate thesis seminar talk in GIST School of Life Sciences (opent to professors and students across the department)
+- Department-wide undergraduate thesis seminar talk in GIST School of Life Sciences (open to professors and students across the department)
 
 Presentation Material:
 <div style="position:relative; padding-top: 0;">
