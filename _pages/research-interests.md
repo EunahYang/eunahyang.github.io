@@ -68,9 +68,8 @@ Later, during a fully funded exchange semester, returning at Berkeley, I took <i
 Sometimes, understanding a disorder more accurately and carefully measuring its risk factors could directly improve quality of lives. That was the moment I began to see neuroscience not just as molecular mechanisms of the brain, but as a way to connect scientific understanding to real human outcomes.
 
 At that time, I was obsessed with the idea:
-> What makes something truly interventible? Are there modifiable and systmic factors that can indirectly shape brain health in broad populations?
+> What makes something truly interventible? Are there modifiable and systmic factors that can indirectly have an impact on brain health in broad populations?
 
-Returning to Korea, I began my first research internship with this question in mind. I focused on how peripheral physiology could influence the brain, particulary through the circulating system. 
-For detailed project description: [click here](https://eunahyang.github.io/projects/eosinophil-bbb/)
+Returning to Korea, I began my first full-time internship with this question in mind. For detailed project description: [click here](https://eunahyang.github.io/projects/eosinophil-bbb/)
 
 Through this project, I began to study brain vasculature and realized how dynamic it is. I learned that blood flow can contribute to the clearance system (such as glympathic pathway). And the blood flow are altered by neurovascular coupling and pathological proteins. Growing interest in coordination between neural activity and local blood supply drove me to apply master program.
