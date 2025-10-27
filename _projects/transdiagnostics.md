@@ -10,18 +10,22 @@ category: Current
 
 We still lack objective biomarkers that can reliably diagnose or predict mental health conditions. Much of this limitation arises from the traditional case–control studies, which are built upon assumptions that each disorder has a distinct and isolated causes, and that group averages accurately represent the population. However, individuals within the same diagnosis often show substantial variability in both symptoms and neural patterns, while those across different diagnosis may exhibit considerable overlap. As a result, categorical definition tend to oversimplify the complex and continuous nature of cognition and mental health, making it difficult to bridge psychological constructs (top-down approach) with interpretable neural mechanisms (bottom-up approach) that vary meaningfully across individuals.
 
-To address this, I adopt a transdiagnostic and dimensional approach that replaces binary diagnostic labels with multi-dimensional phenotypic profiles. These profiles are constructed from behavioral assessments such as CBCL and KSADS, representing each individual as a vector in a continuous behavioral space encompassing domains like emotion regulation, impulsivity, and cognitive control. Using connectome-based predictive modeling (CPM), I test whether patterns of functional connectivity can predict these behavioral vectors, thereby modeling psychiatric features as gradients rather than discrete categories.
-
-Through this framework, I aim to uncover shared neural dimensions that transcend traditional diagnostic boundaries and explain the diverse ways symptoms manifest across individuals. Ultimately, this project seeks to bridge the gap between brain network dynamics and complex behavioral phenotypes, providing a quantitative, individualized, and biologically grounded view of mental health. By doing so, it contributes to a more flexible and integrative understanding of psychopathology—one that recognizes both common mechanisms and unique individual trajectories.
-
-
-> Can FC predict individual symptom patterns without relying on diagnostic labels?<br> sdfdsf dsf <br> sdfsdfds
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/transdiagnostics_thumbnail.jpg" title="transdiagnostics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    TITLE HERE
+    This illustration describes that individuals distributed in a continuous behavioral space cannot be neatly separated by diagnostic boundaries. Clusters based on shared phenotypic features often cut across traditional categories.
 </div>
+
+> Can FC predict individual symptom patterns without relying on diagnostic labels?<br> sdfdsf dsf <br> sdfsdfds
+
+To move beyond these categorical limitations, I take a brain-based approach that focuses on individual network patterns rather than predefined diagnostic labels. Instead of predicting a single disorder, each person is represented as a vector of multiple behavioral and cognitive constructs—such as emotional regulation, motivation, and attentional control—derived from population-level assessments. By predicting these multidimensional profiles directly from functional connectomes, this framework captures continuous variation in how brain networks support diverse mental processes. Such a perspective, often described as transdiagnostic, seeks to reveal shared neural mechanisms that span conventional diagnostic boundaries while maintaining sensitivity to individual differences. Ultimately, this allows for a more interpretable and mechanistic understanding of how the brain gives rise to complex behavioral phenotypes.
+
+
+
+
+To address this, I adopt a transdiagnostic and dimensional approach that replaces binary diagnostic labels with multi-dimensional phenotypic profiles. These profiles are constructed from behavioral assessments such as CBCL and KSADS, representing each individual as a vector in a continuous behavioral space encompassing domains like emotion regulation, impulsivity, and cognitive control. Using connectome-based predictive modeling (CPM), I test whether patterns of functional connectivity can predict these behavioral vectors, thereby modeling psychiatric features as gradients rather than discrete categories.
+
+Through this framework, I aim to uncover shared neural dimensions that transcend traditional diagnostic boundaries and explain the diverse ways symptoms manifest across individuals. Ultimately, this project seeks to bridge the gap between brain network dynamics and complex behavioral phenotypes, providing a quantitative, individualized, and biologically grounded view of mental health. By doing so, it contributes to a more flexible and integrative understanding of psychopathology—one that recognizes both common mechanisms and unique individual trajectories.
