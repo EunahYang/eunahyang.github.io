@@ -8,7 +8,6 @@ nav_order: 3
 ---
 
 <h4 style="font-weight:700;">Neuroimaging-based transdiagnostic approach to mental health variation</h4>
-<br>
 We still lack objective biomarkers that can reliably diagnose or predict mental health conditions. Much of this limitation arises from traditional case–control studies, which are built on the assumptions that each condition has a distinct and isolated cause, and that group averages adequately represent the population. However, individuals within the same label often show substantial variability in both symptoms and neural patterns, while those across different labels may exhibit considerable overlap. As a result, categorical definitions tend to oversimplify the complex and continuous nature of cognition and mental health, making it difficult to bridge psychological constructs (top-down) with interpretable neural mechanisms (bottom-up) that vary meaningfully across individuals.
 
 <div class="row">
