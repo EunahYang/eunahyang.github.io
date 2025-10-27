@@ -48,15 +48,15 @@ This project is now in its final stage, almost ready for submission. I hope to s
 
 <h4 style="font-weight:700;">First half of the master's program</h4>
 
-In the early part of my master’s program, I was interested in how how the brain distributes energy with high spatiotemporal synchronization. Neurons fire within milliseconds, while vessels adjust over seconds, yet the resulting hemodynamic signal remains spatially and temporally coherent.
+In the early part of my master’s program, I was interested in how how the brain distributes energy with precise spatiotemporal coordination. Neurons fire within milliseconds, while vessels adjust over seconds, yet the resulting hemodynamic signal remains coherent across space and time.
 
-> How is such temporal precision and region specific coordination maintained in the neurovascular system?<br> What happens when the mechanical condition(modifiable, interventible?) of this system begin to fail?
+> How is such temporal precision and region specific coordination maintained in the neurovascular system?<br>What happens when the mechanical condition of this system begin to fail?
 
-These questions led me to view neurovascular coupling as a dynamic control problem embedded in a hierarchical vascular network. How does it decide where to send blood moment by moment? While reading papers on cerebrovascular physiology, I found the hierarchical organization of the brain vessel especially interesting. Vessels close to proximal branches (or small-order branches) are surrounded by smooth muscle cells with active contractility, but as vessels bifurcate into smaller perforating branches that penetrate deeper into the parenchyma, they are no longer wrapped by smooth muscle cells but by less contractile pericytes and even endothelial cells. This graudal loss of contractility makes deeper vessels respond more paassively. Then how does a neuronal response occurring deep in the tissue communicate upstream to secure the needed blood supply?
+These questions led me to view neurovascular coupling as a dynamic control problem embedded in a hierarchical vascular network. I learned that the hierarchical organization of the brain vessel especially interesting. Vessels close to proximal branches (or small-order branches) are surrounded by smooth muscle cells with active contractility, but as vessels bifurcate into smaller perforating branches that penetrate deeper into the parenchyma, they are no longer wrapped by smooth muscle cells but by less contractile pericytes and even endothelial cells. This graudal loss of contractility makes deeper vessels respond more paassively. Then how does a neuronal response occurring deep in the tissue communicate upstream to secure the needed blood supply?
 
-위의 큰 질문에 대해 고민하기 앞서, 먼저 practical하게 현상을 보고싶은 마음이 있어서... I became particularly interested in how mechanical stress or arterial stiffness could distort the fine balance between neuronal demand and vascular response, even when the brain itself was not the primary site of pathology(모호함).
+Before tackling these questions theoretically, I wanted to first observe the phenomenon in a practical way. I firstly focused on how mechanical stress or arterial stiffness could distort the fine balance between neuronal demand and vascular response, even when pathology doesn't originate from the brain.
 
-This project was an in-vivo imaging study designed to probe these interactions under conditions of induced vascular stiffening. Although I had to discontinue the work after developing severe mouse allergies, this experience allowed me to shift toward network neuroscience with human neuroimaging study.
+This project was an in-vivo imaging study designed to probe these interactions under conditions of induced vascular stiffening. Although I had to discontinue the work after developing severe mouse allergies, this experience was a turning point for me. This prompted me to shift toward network neuroscience with human neuroimaging study.
 
 For early stage ideas of that time: [you can take a look here.](https://eunahyang.github.io/projects/pericyte-NVJ/)
 
