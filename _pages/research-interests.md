@@ -35,8 +35,8 @@ Someone once told me that no one is ever fully satisfied with their own research
 
 During the PD research that I have done during my masters, that was a group-level comparison study. But I became aware of how much variability could be lost when collasping into diganostic categories. And by attending conferences, such themes like heterogeneity between individuals and individual prognosis prediction were intriguing. When we conduct a research in a individual level, masking effects during group analysis could be reduced.
 
-Brief descriptions of my current projects: ['Current' section of the Project menu.](https://eunahyang.github.io/projects/) <br>
-Developing ideas: ['Developing Ideas' menu.](https://eunahyang.github.io/developing-ideas/)
+Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/) <br>
+Developing ideas: [Click 'Developing Ideas' menu.](https://eunahyang.github.io/developing-ideas/)
 
 <h4 style="font-weight:700;">Second half of the master's program</h4>
 
