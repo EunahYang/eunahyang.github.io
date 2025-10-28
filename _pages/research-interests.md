@@ -23,9 +23,9 @@ Someone once told me that no one is ever fully satisfied with their own research
 
 Series of new questions began to emerge. Below is a schema of my current questions.
 
-<div class="row">
+<div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/curr_concept.jpeg" title="current concept" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
