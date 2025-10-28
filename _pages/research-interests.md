@@ -42,10 +42,9 @@ My research began to take a new direction toward human neuroimaging and network-
 
 Detailed information about the Parkinson's disease project with Yonsei Severance Hospital: [Click here](https://eunahyang.github.io/projects/pd-amyloid/)
 
-While working on this project, I began to think deeply about disease complexity and individual heterogeneity. Patient with the same diagnosis could differ significantly in their symptoms and experiences. When I saw columns labeled 'apathy' or 'motivation' in the dataset (represented as numerical scores), I found it difficult to envision what those numbers actulally represented. Even after reading the questionnaires that was used to derive those scores, I kept wondering what these experiences felt like from the inside.
 > How would the individuals behave, think or feel? What would it mean to live with reduced drive or emotional flatness?<br>And how could those phenotype originate from the brain's architecture?
 
-That gap between quantified measures and realities became one of the most interesting and unresolved questions for me.
+While working on this project, I began to think deeply about disease complexity and individual heterogeneity. Patient with the same diagnosis could differ significantly in their symptoms and experiences. When I saw columns labeled 'apathy' or 'motivation' in the dataset (represented as numerical scores), I found it difficult to envision what those numbers actulally represented in an actual human being. Even after reading the questionnaires that was used to derive those scores, I kept wondering what these humans with that score/lables felt like from the inside. That gap between quantified measures and realities became one of the most interesting and unresolved questions for me.
 
 <h4 style="font-weight:700;">First half of the master's program</h4>
 
