@@ -10,18 +10,16 @@ nav_order: 1
 <h4 style="font-weight:700;">Current</h4>
 What defines individuals cognitive process and how can we quantify those in 
 
-Research Question 1
+> Research Question
+Description
+> Research Question 2
+Description
+> Research Question 3
+Description
 
-Research Question 2
-
-Research Question 3
-
-
-
-
-Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. 
-
-Series of new questions began to emerge. Below is a schema of my current questions.
+<!--
+Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. Series of new questions began to emerge. Below is a schema of my current questions.
+-->
 
 <div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
@@ -34,7 +32,8 @@ Series of new questions began to emerge. Below is a schema of my current questio
 
 During the PD research that I have done during my masters, that was a group-level comparison study. But I became aware of how much variability could be lost when collasping into diganostic categories. And by attending conferences, such themes like heterogeneity between individuals and individual prognosis prediction were intriguing. When we conduct a research in a individual level, masking effects during group analysis could be reduced.
 
-Brief descriptions of my current projects can be found in the ['Current' section of the Project menu.](https://eunahyang.github.io/projects/)
+Brief descriptions of my current projects: ['Current' section of the Project menu.](https://eunahyang.github.io/projects/)
+Developing ideas: ['Developing Ideas' menu.](https://eunahyang.github.io/developing-ideas/)
 
 <h4 style="font-weight:700;">Second half of the master's program</h4>
 
