@@ -8,6 +8,10 @@ nav_order: 1
 ---
 
 <h4 style="font-weight:700;">Current</h4>
+
+
+In the latter phase of my master’s work, I realized that group-level labels and numerical scores often obscured what mattered most: the lived, heterogeneous experiences of individuals. Voxel-level associations frequently overlapped across regions, reinforcing that our conclusions hinge on how we represent the brain—through atlases, eigenmodes, or connectivity. This led me to move beyond categorical comparisons toward biologically grounded, multivariate representations at the network level. That shift now motivates my central questions: (a) individual differences in cognitive state transitions, (b) predictive, biologically anchored representations of cognition, and (c) interpretable links between latent cognitive dimensions and network dynamics for personalized interventions.
+
 What defines individuals cognitive process and how can we quantify those in During the PD research that I have done during my masters, that was a group-level comparison study. But I became aware of how much variability could be lost when collasping into diganostic categories. And by attending conferences, such themes like heterogeneity between individuals and individual prognosis prediction were intriguing. When we conduct a research in a individual level, masking effects during group analysis could be reduced.
 
 <div class="row"> 
