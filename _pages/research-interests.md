@@ -38,7 +38,7 @@ Developing ideas: [Click 'Developing Ideas' menu.](https://eunahyang.github.io/d
 
 <h4 style="font-weight:700;">Second half of the master's program</h4>
 
-My research began to take a new direction toward human neuroimaging and network-level approaches. It felt like entering an entirely new world. I didn't even know how to open a raw T1 file at first. Everything felt foreign and overly abstract. But as I learned and practiced, I realized that what initially felt abstract was simply a different way to describe the same brain from a network/system level. It was interesting to see how distal brain regions synchronize and collectively generate human behavior as an output. Working with human MRI felt closer to real life. Instaed of focusing on a single circuit, I learned to analyze structural network and observed functional analysis from non-invasive human MRI data.
+My research began to take a new direction toward human neuroimaging and network-level approaches. It felt like entering an entirely new world. I didn't even know how to open a raw T1 file at first. Everything felt foreign and overly abstract. But as I learned and practiced, I realized that what initially felt abstract was simply a different way to describe the same brain from a network/system level. It was interesting to see how distal brain regions synchronize and collectively generate human behavior as an output. Working with human MRI felt closer to real life. Instaed of focusing on a single circuit, I learned to analyze structural networks and closely followed functional analyses from non-invasive human MRI data.
 
 Detailed information about the Parkinson's disease project with Yonsei Severance Hospital: [Click here](https://eunahyang.github.io/projects/pd-amyloid/)
 
