@@ -19,13 +19,13 @@ What defines individuals cognitive process and how can we quantify those in Duri
     Scheme of current reserach queistons. Brain networks continuously adapt to external stimuli, leading to diverging emotional and behavioral outcomes in each individuals.
 </div>
 
-> 1. How do individual differences in cognitive state transitions shape how people interpret and adapt to internal and external experiences?
+> a. How do individual differences in cognitive state transitions shape how people interpret and adapt to internal and external experiences?
 
 Even when facing identical environments, people perceive, evaluate, and internalize experiences differently. These variations likely arise from distinct configurations and dynamics of cognitive processes—such as attention allocation, internal mentation, and evaluative control—that interact bidirectionally with external inputs. Over time, these processes accumulate as personalized interpretive “biases” or priors within each individual’s brain network. I aim to understand how such cognitive state transitions—particularly those governing internally oriented attention—differ across individuals and give rise to distinct behavioral and emotional patterns.
-> 2. How can biologically grounded, multivariate representations of cognition improve the prediction of individual behavioral and mental states?
+> b. How can biologically grounded, multivariate representations of cognition improve the prediction of individual behavioral and mental states?
 
-Moving beyond categorical descriptions, I seek to represent individuals along latent cognitive dimensions derived from multivariate modeling of brain–behavior data. Such representations can reveal the neural mechanisms underlying latent variables identified in question 1, capturing continuous axes of phenotypic variability rather than discrete groupings. By anchoring these representations in biological substrates, I hope to establish a predictive framework that links individual brain network configurations with moment-to-moment cognitive dynamics.
-> How can mapping latent cognitive dimensions onto brain network dynamics advance interpretable and personalized interventions?
+Moving beyond categorical descriptions, I seek to represent individuals along latent cognitive dimensions derived from multivariate modeling of brain–behavior data. Such representations can reveal the neural mechanisms underlying latent variables identified in question a, capturing continuous axes of phenotypic variability rather than discrete groupings. By anchoring these representations in biological substrates, I hope to establish a predictive framework that links individual brain network configurations with moment-to-moment cognitive dynamics.
+> c. How can mapping latent cognitive dimensions onto brain network dynamics advance interpretable and personalized interventions?
 
 By embedding latent cognitive factors within the dynamic architecture of brain networks, we may obtain more interpretable and biologically grounded markers of mental function. Such an approach could inform when, where, and for whom an intervention is most effective—bridging mechanistic understanding with clinical applicability. Ultimately, this framework aims to refine both theoretical models of cognition and practical strategies for individualized mental-health care. 
 
