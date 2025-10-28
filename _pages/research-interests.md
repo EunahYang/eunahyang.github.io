@@ -19,13 +19,13 @@ What defines individuals cognitive process and how can we quantify those in
     This image can also have a caption. It's like magic.
 </div>
 
-> Research Question
+> How does individuals ?
 
 Description
-> Research Question 2
+> How does individuals ?
 
 Description
-> Research Question 3
+> How does individuals ?
 
 Description
 
