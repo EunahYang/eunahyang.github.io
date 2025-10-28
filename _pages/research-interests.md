@@ -11,10 +11,13 @@ nav_order: 1
 What defines individuals cognitive process and how can we quantify those in 
 
 > Research Question
+
 Description
 > Research Question 2
+
 Description
 > Research Question 3
+
 Description
 
 <!--
