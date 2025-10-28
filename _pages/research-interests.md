@@ -16,7 +16,7 @@ What defines individuals cognitive process and how can we quantify those in Duri
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Scheme of current reserach queistons. Brain networks continuously adapt to external stimuli, leading to diverging emotional and behavioral outcomes in each individuals.
 </div>
 
 > 1. How do individual differences in cognitive state transitions shape how people interpret and adapt to internal and external experiences?
