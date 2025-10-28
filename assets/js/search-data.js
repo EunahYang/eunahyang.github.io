@@ -458,8 +458,8 @@ ninja.data = [{
           description: "[&quot;2023-2025&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pd-amyloid/";
-            },},{id: "projects-mechanical-constraints-on-neurovascular-coupling-impact-of-arterial-stiffness-on-functional-hyperemia-and-microvascular-flow-regulation",
-          title: 'Mechanical constraints on neurovascular coupling impact of arterial stiffness on functional hyperemia and...',
+            },},{id: "projects-mechanical-constraints-with-arterial-stiffness-having-impact-on-neurovascular-coupling-and-microvascular-flow-regulation",
+          title: 'Mechanical constraints with arterial stiffness having impact on neurovascular coupling and microvascular flow...',
           description: "[2022]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pericyte-NVJ/";
