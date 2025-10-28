@@ -19,7 +19,7 @@ What defines individuals cognitive process and how can we quantify those in Duri
     Scheme of current reserach queistons. Brain networks continuously adapt to external stimuli, leading to diverging emotional and behavioral outcomes in each individuals.
 </div>
 
-> <h5 style="font-weight:700;">a. How do individual differences in cognitive state transitions shape how people interpret and adapt to internal and external experiences?</h5>
+> <p style="font-weight:700;">a. How do individual differences in cognitive state transitions shape how people interpret and adapt to internal and external experiences?</p>
 
 Even when facing identical environments, people perceive, evaluate, and internalize experiences differently. These variations likely arise from distinct configurations and dynamics of cognitive processes—such as attention allocation, internal mentation, and evaluative control—that interact bidirectionally with external inputs. Over time, these processes accumulate as personalized interpretive “biases” or priors within each individual’s brain network. I aim to understand how such cognitive state transitions—particularly those governing internally oriented attention—differ across individuals and give rise to distinct behavioral and emotional patterns.
 > <p style="font-weight:700;">b. How can biologically grounded, multivariate representations of cognition improve the prediction of individual behavioral and mental states?</p>
