@@ -57,6 +57,7 @@ Currently, I'm a research assistant at Samsung Medical Center (SMC), working wit
   </div>
 </div>
 
+** Check tablet size format **
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
