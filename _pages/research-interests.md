@@ -46,6 +46,7 @@ Someone once told me that no one is ever fully satisfied with their own research
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/) <br>
 Developing ideas: [Click 'Developing Ideas' menu.](https://eunahyang.github.io/developing-ideas/)
 
+<br>
 <h4 style="font-weight:700;">Second half of the master's program</h4>
 
 My research began to take a new direction toward human neuroimaging and network-level approaches. It felt like entering an entirely new world. I didn't even know how to open a raw T1 file at first. Everything felt foreign and overly abstract. But as I learned and practiced, I realized that what initially felt abstract was simply a different way to describe the same brain from a network/system level. It was interesting to see how distal brain regions synchronize and collectively generate human behavior as an output. Working with human MRI felt closer to real life. Instaed of focusing on a single circuit, I learned to analyze structural networks and closely followed functional analyses from non-invasive human MRI data.
@@ -56,6 +57,7 @@ Detailed information about the Parkinson's disease project with Yonsei Severance
 
 While working on this project, I began to think deeply about disease complexity and individual heterogeneity. Patient with the same diagnosis could differ significantly in their symptoms and experiences. When I saw columns labeled 'apathy' or 'motivation' in the dataset (represented as numerical scores), I found it difficult to envision what those numbers actulally represented in an actual human being. Even after reading the questionnaires that was used to derive those scores, I kept wondering what these humans with that score/lables felt like from the inside. That gap between quantified measures and realities became one of the most interesting and unresolved questions for me.
 
+<br>
 <h4 style="font-weight:700;">First half of the master's program</h4>
 
 In the early part of my master’s program, I was interested in how how the brain distributes energy with precise spatiotemporal coordination. Neurons fire within milliseconds, while vessels adjust over seconds, yet the resulting hemodynamic signal remains coherent across space and time.
@@ -68,6 +70,7 @@ Before tackling these big questions, I wanted to start by examining one aspect o
 
 For early stage ideas of that time: [you can take a look here.](https://eunahyang.github.io/projects/pericyte-NVJ/)
 
+<br>
 <h4 style="font-weight:700;">Undergraduate years</h4>
 
 I majored biology, studying fundamental disciplines such as biochem, genetics, molecular, cellular, and developmental biology. My first exposure to neuroscience came during a short summer session at UC Berkeley, where I found how differently the brain could be studied compared to the biology I have known.  
