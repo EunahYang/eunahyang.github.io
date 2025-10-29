@@ -23,12 +23,12 @@ To address this interoperability challenge, I introduce a cross-atlas connectome
 
 Overall, the connectome transformation modeling framework provides a flexible and generalizable approach for bridging atlas-specific functional connectomes. By enabling cross-atlas mapping without direct access to raw imaging data, this approach helps enhance the comparison and interpretation of large-scale connectome research.
 
-Presentations (upcoming):
+<p style="font-weight:700;">Presentations (upcoming):</p>
 - SfN 2025 (Society for Neuroscience), San Diego, US (Abstract accepted; co-author and co-presenter)
 - KHBM 2025 Fall Conference (Korean Society of Human Brain Mapping), Seoul, Korea (abstract accepted for poster presentation)
 
 Main Reference:
 Yoo, K., Rosenberg, M. D., Kwon, Y. H., Scheinost, D., Constable, R. T., & Chun, M. M. (2022). A cognitive state transformation model for task-general and task-specific subsystems of the brain connectome. NeuroImage, 257, 119279–119279. https://doi.org/10.1016/j.neuroimage.2022.119279
 
-Presentation Materials:
+<p style="font-weight:700;">Presentation Materials:</p>
 (Will be uploaded shortly)
