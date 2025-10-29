@@ -36,8 +36,8 @@ Currently, I'm a research assistant at Samsung Medical Center (SMC), working wit
 
 <div class="row">
   <div class="col-sm">
-    <a href="/Research-Interests/">
-      <img src="assets/img/1.jpg" class="img-fluid rounded z-depth-1" alt="Research Interests">
+    <a href="https://eunahyang.github.io/research-interests/">
+      <img src="assets/img/curr_concept.jpeg" class="img-fluid rounded z-depth-1" alt="Research Interests">
     </a>
     <div class="caption text-center mt-2">Research Interests</div>
   </div>
@@ -60,8 +60,8 @@ Currently, I'm a research assistant at Samsung Medical Center (SMC), working wit
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="/Research-Interests/">
-      <img src="assets/img/1.jpg" class="img-fluid rounded z-depth-1" alt="Research Interests">
+    <a href="https://eunahyang.github.io/research-interests/">
+      <img src="assets/img/curr_concept.jpeg" class="img-fluid rounded z-depth-1" alt="Research Interests">
     </a>
     <div class="caption text-center mt-2">Research Interests</div>
   </div>
