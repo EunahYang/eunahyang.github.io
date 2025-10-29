@@ -19,6 +19,14 @@ strong {
   color: var(--global-text-color);
 }
 
+.page__content p,
+.post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  line-height: 1.7;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
