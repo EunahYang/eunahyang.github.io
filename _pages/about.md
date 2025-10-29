@@ -47,13 +47,13 @@ For more about my research directions and evolving interests, please click [Rese
   </div>
 
   <div class="col-sm">
-    <a href="/Projects/">
+    <a href="/projects/">
       <img src="assets/img/1.jpg" 
         class="img-fluid rounded z-depth-1" 
         alt="Projects"
         style="width:100%; aspect-ratio:4/3; object-fit:cover; object-position:center;">
     </a>
-    <div class="caption text-center mt-2">Projects</div>
+    <div class="caption text-center mt-2">Current/past projects</div>
   </div>
 
   <div class="col-sm">
