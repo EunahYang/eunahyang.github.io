@@ -34,9 +34,13 @@ I’m interested in understanding how individual differences in cognitive dynami
 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). My current works focus on bridging computational modeling and cognitive neuroscience with brain networks. Mostly, I use brain fMRI data to build connectome-based predictive models and explore how brain network inform individualized cognition and phenotypical differences. [You can see my ongoing projectes here.](https://eunahyang.github.io/projects/#Current)
 
+Before this, I recieved my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [Thesis project](https://eunahyang.github.io/projects/pd-amyloid/) Earlier, I earned my B.S in Life Science at GIST, worked as an intern in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. [Bachelor Project](https://eunahyang.github.io/projects/eosinophil-bbb/)
+
+<!--
 Before this, I received my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/pd-amyloid/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. 
 
 Earlier, I earned my B.S. in Life Sceince at GIST, where I did my [very first individual project](https://eunahyang.github.io/projects/eosinophil-bbb/) in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. I explored how eosinophilia-induced hypoxia affects brain vasculature integrity in mice.
+-->
 
 <!--
 Formats:
