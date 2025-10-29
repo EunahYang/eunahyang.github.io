@@ -59,37 +59,10 @@ For more about my research directions and evolving interests, please click [Rese
   </div>
 </div>
 
-** Check tablet size format **
-
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://eunahyang.github.io/research-interests/">
-      <img src="assets/img/curr_concept.jpeg" class="img-fluid rounded z-depth-1" alt="Research Interests">
-    </a>
-    <div class="caption text-center mt-2">Research Interests</div>
-  </div>
-
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="/Projects/">
-      <img src="assets/img/1.jpg" class="img-fluid rounded z-depth-1" alt="Projects">
-    </a>
-    <div class="caption text-center mt-2">Projects</div>
-  </div>
-
-  <div class="col-sm mt-3 mt-md-0">
-    <a href="https://eunahyang.github.io/developing-ideas/">
-      <img src="assets/img/EMR_RSA.jpg" class="img-fluid rounded z-depth-1" alt="CV">
-    </a>
-    <div class="caption text-center mt-2">CV</div>
-  </div>
-</div>
 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). My current works focus on bridging computational modeling and cognitive neuroscience with brain networks. Mostly, I use brain fMRI data to build connectome-based predictive models and explore how brain network inform individualized cognition and phenotypical differences. [You can see my ongoing projectes here.](https://eunahyang.github.io/projects/#Current)
 
-
-
-
-Before this, I recieved my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [<i>Thesis project</i>](https://eunahyang.github.io/projects/pd-amyloid/) Earlier, I earned my B.S in Life Science at GIST, worked as an intern in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. [<i>Bachelor Project</i>](https://eunahyang.github.io/projects/eosinophil-bbb/)
+Before this, I recieved my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [<i>Thesis project</i>](https://eunahyang.github.io/projects/pd-amyloid/)  Earlier, I earned my B.S in Life Science at GIST, worked as an intern in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. [<i>Bachelor Project</i>](https://eunahyang.github.io/projects/eosinophil-bbb/)
 
 <!--
 Before this, I received my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/pd-amyloid/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. 
