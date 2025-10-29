@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: eunahyyang@gmail.com
+subtitle:
 
 profile:
   align: right
@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>Samsung Medical Center</p>
     <p>Sungkyunkwan University</p>
-    <br><br><br><br><br><br><br><br>
+    <p>eunahyyang@gmail.com</p>
+    <br><br><br><br><br><br><br>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
