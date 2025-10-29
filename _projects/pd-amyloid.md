@@ -18,12 +18,12 @@ This retrospective study included patients with PD who underwent 18 F-florbetabe
 
 Our findings suggest that coexistent Aβ may elicit additive vulnerability in WM microstructures in patients with PD. Considering the mediating role of WM network integrity in the effect of Aβ on clinical measures, WM network degeneration may serve as a potential intermediate pathway through which Aβ copathology contributes to cognitive and neuropsychiatric manifestation in PD. Together, these findings suggest that Aβ-related WM network vulnerability represents a key intermediate mechanism linking molecular pathology to behavioral phenotypes, offering a network-based perspective on PD heterogeneity.
 
-Presentations:
+<p style="font-weight:700;">Presentations:</p>
 - OHBM 2024, Organization for Human Brain Mapping Conference Seoul, Korea (2024, June 24-25)
 - KHBM 2023 Fall Conference, Korean Society of Human Brain Mapping Conference, Suwon, Korea (2023, October 27-28)
 - This project is nearly ready for manuscript submission!!
 
-Presentation Material:
+<p style="font-weight:700;">Presentation Material:</p>
 <div style="position:relative; padding-top: 0;">
   <iframe
     src="https://drive.google.com/file/d/1mC-sypo8Izg4z9bcr12q0XrndXSnHlMr/preview"
