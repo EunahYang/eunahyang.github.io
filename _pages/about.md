@@ -47,7 +47,7 @@ For more about my research directions and evolving interests, please click [Rese
   </div>
 
   <div class="col-sm">
-    <a href="/projects/">
+    <a href="https://eunahyang.github.io/projects/">
       <img src="assets/img/1.jpg" 
         class="img-fluid rounded z-depth-1" 
         alt="Projects"
