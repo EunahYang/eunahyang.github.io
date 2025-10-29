@@ -45,7 +45,7 @@ For more about my research directions and evolving interests, please click [Rese
   </div>
 
   <div class="col-sm">
-    <a href="/Projects/">
+    <a href="/projects/">
       <img src="assets/img/1.jpg" class="img-fluid rounded z-depth-1" alt="Projects">
     </a>
     <div class="caption text-center mt-2">Projects</div>
@@ -53,11 +53,44 @@ For more about my research directions and evolving interests, please click [Rese
 
   <div class="col-sm">
     <a href="https://eunahyang.github.io/developing-ideas/">
-      <img src="assets/img/EMR_RSA.jpg" class="img-fluid rounded z-depth-1" alt="CV">
+      <img src="assets/img/EMR_RSA.jpg" class="img-fluid rounded z-depth-1" alt="Developing Ideas">
     </a>
-    <div class="caption text-center mt-2">CV</div>
+    <div class="caption text-center mt-2">Developing Ideas</div>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-sm">
+    <a href="https://eunahyang.github.io/research-interests/">
+      <img src="assets/img/curr_concept.jpeg" 
+        class="img-fluid rounded z-depth-1" 
+        alt="Research Interests"
+        style="width:100%; aspect-ratio:16/9; object-fit:cover; object-position:center;">
+    </a>
+    <div class="caption text-center mt-2">Research Interests</div>
+  </div>
+
+  <div class="col-sm">
+    <a href="/Projects/">
+      <img src="assets/img/1.jpg" 
+        class="img-fluid rounded z-depth-1" 
+        alt="Projects"
+        style="width:100%; aspect-ratio:16/9; object-fit:cover; object-position:center;">
+    </a>
+    <div class="caption text-center mt-2">Projects</div>
+  </div>
+
+  <div class="col-sm">
+    <a href="https://eunahyang.github.io/developing-ideas/">
+      <img src="assets/img/EMR_RSA.jpg" 
+        class="img-fluid rounded z-depth-1" 
+        alt="Developing Ideas"
+        style="width:100%; aspect-ratio:16/9; object-fit:cover; object-position:center;">
+    </a>
+    <div class="caption text-center mt-2">Developing Ideas</div>
+  </div>
+</div>
+
 
 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). My current works focus on bridging computational modeling and cognitive neuroscience with brain networks. Mostly, I use brain fMRI data to build connectome-based predictive models and explore how brain network inform individualized cognition and phenotypical differences. [You can see my ongoing projectes here.](https://eunahyang.github.io/projects/#Current)
