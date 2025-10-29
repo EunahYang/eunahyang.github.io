@@ -34,6 +34,29 @@ I’m interested in understanding how individual differences in cognitive dynami
 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). My current works focus on bridging computational modeling and cognitive neuroscience with brain networks. Mostly, I use brain fMRI data to build connectome-based predictive models and explore how brain network inform individualized cognition and phenotypical differences. [You can see my ongoing projectes here.](https://eunahyang.github.io/projects/#Current)
 
+<div class="row">
+  <div class="col-sm">
+    <a href="/Research-Interests/">
+      <img src="assets/img/1" class="img-fluid rounded z-depth-1" alt="Research Interests">
+    </a>
+    <div class="caption text-center mt-2">Research Interests</div>
+  </div>
+
+  <div class="col-sm">
+    <a href="/Projects/">
+      <img src="assets/img/1" class="img-fluid rounded z-depth-1" alt="Projects">
+    </a>
+    <div class="caption text-center mt-2">Projects</div>
+  </div>
+
+  <div class="col-sm">
+    <a href="/CV/">
+      <img src="assets/img/1" class="img-fluid rounded z-depth-1" alt="CV">
+    </a>
+    <div class="caption text-center mt-2">CV</div>
+  </div>
+</div>
+
 Before this, I recieved my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [<i>Thesis project</i>](https://eunahyang.github.io/projects/pd-amyloid/) Earlier, I earned my B.S in Life Science at GIST, worked as an intern in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. [<i>Bachelor Project</i>](https://eunahyang.github.io/projects/eosinophil-bbb/)
 
 <!--
