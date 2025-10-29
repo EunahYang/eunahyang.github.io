@@ -76,6 +76,13 @@ For more about my research directions and evolving interests, please click [Rese
   </div>
 </div>
 
+<div class="row">
+  <div class="col-sm" markdown="1">
+    Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). My current works focus on bridging computational modeling and cognitive neuroscience with brain networks. Mostly, I use brain fMRI data to build connectome-based predictive models and explore how brain network inform individualized cognition and phenotypical differences. [You can see my ongoing projectes here.](https://eunahyang.github.io/projects/#Current) <br>Before this, I recieved my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [<i>Thesis project</i>](https://eunahyang.github.io/projects/pd-amyloid/)  Earlier, I earned my B.S in Life Science at GIST, worked as an intern in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. [<i>Bachelor Project</i>](https://eunahyang.github.io/projects/eosinophil-bbb/)
+
+  </div>
+</div>
+
 <!--
 Before this, I received my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/pd-amyloid/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. 
 
