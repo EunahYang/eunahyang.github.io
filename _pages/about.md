@@ -9,10 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Samsung Medical Center</p>
+    <p>Samsung Medical Center & </p>
     <p>Sungkyunkwan University</p>
     <p>eunahyyang@gmail.com</p>
-    <br><br><br><br><br><br><br>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
