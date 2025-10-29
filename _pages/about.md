@@ -38,29 +38,6 @@ For more about my research directions and evolving interests, please click [Rese
 <div class="row">
   <div class="col-sm">
     <a href="https://eunahyang.github.io/research-interests/">
-      <img src="assets/img/curr_concept.jpeg" class="img-fluid rounded z-depth-1" alt="Research Interests">
-    </a>
-    <div class="caption text-center mt-2">Research Interests</div>
-  </div>
-
-  <div class="col-sm">
-    <a href="/projects/">
-      <img src="assets/img/1.jpg" class="img-fluid rounded z-depth-1" alt="Projects">
-    </a>
-    <div class="caption text-center mt-2">Projects</div>
-  </div>
-
-  <div class="col-sm">
-    <a href="https://eunahyang.github.io/developing-ideas/">
-      <img src="assets/img/EMR_RSA.jpg" class="img-fluid rounded z-depth-1" alt="Developing Ideas">
-    </a>
-    <div class="caption text-center mt-2">Developing Ideas</div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-sm">
-    <a href="https://eunahyang.github.io/research-interests/">
       <img src="assets/img/curr_concept.jpeg" 
         class="img-fluid rounded z-depth-1" 
         alt="Research Interests"
