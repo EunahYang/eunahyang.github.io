@@ -106,6 +106,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/transdiagnostics/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("eunahyyang.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
