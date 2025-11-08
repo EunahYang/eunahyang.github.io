@@ -30,7 +30,7 @@ Yoo, K., Rosenberg, M. D., Kwon, Y. H., Scheinost, D., Constable, R. T., & Chun,
 - SfN 2025 (Society for Neuroscience), San Diego, US (Abstract accepted; co-author and co-presenter)
 - KHBM 2025 Fall Conference (Korean Society of Human Brain Mapping), Seoul, Korea (2025, November 06-07)
 
-<p style="font-weight:700;">Presentations (inculding upcoming events):</p>
+<p style="font-weight:700;">Award:</p>
 - Best Poster Award (KHBM 2025 Fall Conference)
 
 <p style="font-weight:700;">Presentation Materials:</p>
