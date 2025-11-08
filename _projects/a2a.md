@@ -31,7 +31,7 @@ Yoo, K., Rosenberg, M. D., Kwon, Y. H., Scheinost, D., Constable, R. T., & Chun,
 - KHBM 2025 Fall Conference (Korean Society of Human Brain Mapping), Seoul, Korea (2025, November 06-07)
 
 <p style="font-weight:700;">Award:</p>
-- Best Poster Award (KHBM 2025 Fall Conference)
+- Best Poster Presentation Award (KHBM 2025 Fall Conference)
 
 <p style="font-weight:700;">Presentation Materials:</p>
 <div style="position:relative; padding-top: 0;">
