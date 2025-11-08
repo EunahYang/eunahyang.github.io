@@ -110,7 +110,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("eunahyyang.bsky.social", "_blank");
+          window.open("eunahyyang", "_blank");
         },
       },{
         id: 'social-email',
