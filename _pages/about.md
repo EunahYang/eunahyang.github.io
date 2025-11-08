@@ -74,7 +74,7 @@ Currently, I'm a research assistant at Samsung Medical Center (SMC), working wit
 
 Before this, I received my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/pd-amyloid/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. 
 
-Earlier, I earned my B.S. in Life Sceince at GIST, where I did my [very first individual project](https://eunahyang.github.io/projects/eosinophil-bbb/) in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. I explored how eosinophilia-induced hypoxia affects brain vasculature integrity in mice.
+Earlier, I earned my B.S. in Life Sceince at GIST, where I did my [very first individual project](https://eunahyang.github.io/projects/eosinophil-bbb/) in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. I explored how eosinophilia-induced hypoxia affects brain vasculature integrity in mice. 
 
   </div>
 </div>
