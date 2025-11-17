@@ -48,7 +48,7 @@ For more about my research directions and evolving interests, please click [Rese
 
   <div class="col-sm">
     <a href="https://eunahyang.github.io/projects/">
-      <img src="assets/img/1.jpg" 
+      <img src="assets/img/pdamyloid_thumbnail.jpg" 
         class="img-fluid rounded z-depth-1" 
         alt="Projects"
         style="width:100%; aspect-ratio:4/3; object-fit:cover; object-position:center;">
@@ -58,7 +58,7 @@ For more about my research directions and evolving interests, please click [Rese
 
   <div class="col-sm">
     <a href="https://eunahyang.github.io/developing-ideas/">
-      <img src="assets/img/EMR_RSA.jpg" 
+      <img src="assets/img/transdiagnostics_thumbnail.jpg" 
         class="img-fluid rounded z-depth-1" 
         alt="Developing Ideas"
         style="width:100%; aspect-ratio:4/3; object-fit:contain; object-position:center;">
