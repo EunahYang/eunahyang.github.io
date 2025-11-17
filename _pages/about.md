@@ -41,7 +41,7 @@ For more about my research directions and evolving interests, please click [Rese
       <img src="assets/img/curr_concept.jpeg" 
         class="img-fluid rounded z-depth-1" 
         alt="Research Interests"
-        style="width:100%; aspect-ratio:4/3; object-fit:cover; object-position:center;">
+        style="width:100%; aspect-ratio:4/3; object-fit:contain; object-position:center;">
     </a>
     <div class="caption text-center mt-2">Research Interests</div>
   </div>
@@ -51,7 +51,7 @@ For more about my research directions and evolving interests, please click [Rese
       <img src="assets/img/a2a-cube.jpg" 
         class="img-fluid rounded z-depth-1" 
         alt="Projects"
-        style="width:100%; aspect-ratio:4/3; object-fit:cover; object-position:center;">
+        style="width:100%; aspect-ratio:4/3; object-fit:contain; object-position:center;">
     </a>
     <div class="caption text-center mt-2">Current/past projects</div>
   </div>
