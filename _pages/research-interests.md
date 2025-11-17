@@ -1,4 +1,4 @@
-<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/b1ce7e87-0b04-49de-8659-fc453d4fd322" />---
+---
 layout: page
 permalink: /research-interests/
 title: Research Interests
