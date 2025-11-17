@@ -11,10 +11,6 @@ nav_order: 1
 
 Life experiences are transient, yet they often leave lasting footprints on the mind and brain. The brain recognizes, perceives, and translates the experiences, but is also shaped by them, and these processes are unique to every individual. These fingerprint-like cognitive dynamics, and how this variability emerges from brain network dynamics, are my biggest questions.
 
-My interest in individual differences in cognition and behavior stemmed from conducting my master’s thesis project at KAIST. I realized how challenging it was to envision a subject showing abnormal phenotypes based on limited symptom severity scores in the demographics Excel sheets labeled ‘memory,’ ‘apathy,’ and ‘motivation.’ Such scores are insufficient to represent an individual's cognitive and mental state. 
-
-
-
 <!--
 During the latter part of my master’s project, I began to question how individuals behave, think, and feel, and what it truly means to live with reduced motivation or emotional flatness. As I worked with clinical data, I realized that much of the individuality behind these experiences was lost when transformed into numerical scalars or group-level averages. Those numbers, labeled as “apathy” or “motivation,” often felt disconnected from the 4D human (lived realities) they were meant to represent. This realization led me to think about how we might better capture cognitive and behavioral phenotype that differ across individuals. Through prediction modeling, I came to see that identifying meaningful features that explain variance in outcomes offers a more individualized view of brain–behavior relationships. Yet studies of higher-order cognition and neuropsychiatric phenotypes frequently implicate overlapping regions, raising questions about how to represent the brain in a way that reflects its functional diversity. These experiences shaped my current focus on biologically grounded, multivariate representations of cognition that link brain network organization with individual differences in mental processes and behavior.
 
@@ -30,7 +26,7 @@ During the PD research that I have done during my masters, that was a group-leve
     </div>
 </div>
 <div class="caption">
-    Scheme of current reserach queistons. Brain networks continuously adapt to external stimuli, leading to diverging emotional and behavioral outcomes in each individuals.
+    Scheme of current reserach queistons. Brain interprets the world. At the same time, brain networks continuously adapt to external stimuli, leading to diverging emotional and behavioral outcomes in each individuals.
 </div>
 
 > <p style="font-weight:700;">a. How do individual differences in cognitive state transitions shape how people interpret and adapt to internal and external experiences?</p>
