@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research-interests",
-          title: "Research Interests",
-          description: "What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research-interests/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "Projects",
           description: "Current and past experiences of mine",
           section: "Navigation",
