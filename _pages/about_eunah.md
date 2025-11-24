@@ -16,25 +16,4 @@ Jan 2020 - May 2020
 <br>
 <br>
 
-<!--
 
-<h5 style="font-weight:700;">Off time</h5>
-
-DETAIL HERE
-
-<div class="row align-items-center">
-  <div class="col-sm-4">
-    {% include figure.liquid
-       path="assets/img/3.jpg"
-       title="Night School Volunteering"
-       class="img-fluid rounded z-depth-1" %}
-    <div class="caption">Night School — community science session</div>
-  </div>
-  <div class="col-sm-8">
-    <h5>Night School Outreach</h5>
-    <p>Adults from diverse professions joined weekly science workshops.
-       I designed hands-on demos and short explainers to support lifelong learning.</p>
-  </div>
-</div>
-
--->
