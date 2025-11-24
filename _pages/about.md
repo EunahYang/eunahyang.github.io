@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: EA_front.jpeg
+  image: EA_front.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Samsung Medical Center & </p>
