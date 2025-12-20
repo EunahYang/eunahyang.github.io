@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Current and past experiences of mine
+description: Current and past experiences of mine, Click to check the details
 nav: true
 nav_order: 2
 display_categories: [Current, Past]
