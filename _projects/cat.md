@@ -4,7 +4,7 @@ title: "Cross-atlas connectome transformation modeling: addressing atlas-depende
 description: [2025-]
 img: assets/img/a2a-thumbnail.jpg
 importance: 1
-category: current
+category: Current
 # giscus_comments: false
 ---
 
