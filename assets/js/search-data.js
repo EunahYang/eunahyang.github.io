@@ -70,16 +70,16 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-cross-atlas-connectome-transformation-modeling-addressing-atlas-dependent-discrepancies-in-brain-network-analysis",
-          title: 'Cross-atlas connectome transformation modeling: addressing atlas-dependent discrepancies in brain network analysis',
-          description: "[&quot;2025-&quot;]",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/a2a/";
             },},{id: "projects-differential-gene-expression-and-functional-profiling-in-er-recurrent-breast-cancer",
           title: 'Differential gene expression and functional profiling in ER+ recurrent breast cancer',
           description: "2020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_erbc/";
+            },},{id: "projects-cross-atlas-connectome-transformation-modeling-addressing-atlas-dependent-discrepancies-in-brain-network-analysis",
+          title: 'Cross-atlas connectome transformation modeling: addressing atlas-dependent discrepancies in brain network analysis',
+          description: "[&quot;2025-&quot;]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cat/";
             },},{id: "projects-similarity-based-patient-identification",
           title: 'Similarity-based patient identification',
           description: "2024-",
