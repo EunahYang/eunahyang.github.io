@@ -5,13 +5,13 @@ title: CV
 nav: true
 nav_order: 4
 # cv_pdf: example_pdf.pdf # you can also use external links here
-description: Last updated in November 2025
+description: Last updated in May 2026
 toc:
 # sidebar: left
 ---
 <div style="position:relative; padding-top: 0;">
   <iframe
-    src="https://drive.google.com/file/d/1oHs3rHWUu0zC6hoY_4mwoIq4QJBPYFhW/preview"
+    src="https://drive.google.com/file/d/18U1M9429rDYTl4jHfMBAXzwkN8-4Yxxw/preview"
     width="100%"
     height="900"
     allow="autoplay"
