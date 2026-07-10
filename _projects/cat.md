@@ -27,6 +27,7 @@ Main Reference:
 Yoo, K., Rosenberg, M. D., Kwon, Y. H., Scheinost, D., Constable, R. T., & Chun, M. M. (2022). A cognitive state transformation model for task-general and task-specific subsystems of the brain connectome. NeuroImage, 257, 119279–119279. https://doi.org/10.1016/j.neuroimage.2022.119279
 
 <p style="font-weight:700;">Presentations (inculding upcoming events):</p>
+- KSBNS 2025 (Korean Society for Brain and Neural Sciences), Daejeon, Korea (2026, September 06-08)
 - SfN 2025 (Society for Neuroscience), San Diego, US (2025, November 15-19)
 - KHBM 2025 Fall Conference (Korean Society of Human Brain Mapping), Seoul, Korea (2025, November 06-07)
 
