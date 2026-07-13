@@ -29,7 +29,11 @@ latest_posts:
 
 Hi, I am Eunah(pronounce: ɯna) and I study network neuroscience.
 
-I’m interested in understanding how individual differences in cognitive dynamics emerge from adaptive brain network processes and how such representations can improve our ability to describe and predict human behavior. Individuals show distinct patterns of perception, attention, cognitive processes, and adaptability to external stimuli and demands. I want to focus on heterogeneity not as noise but as meaningful variability that is commonly trimmed and flattened. 
+<!--
+I’m interested in understanding how individual differences in cognitive dynamics emerge from adaptive brain network processes and how such representations can improve our ability to describe and predict human behavior. Individuals show distinct patterns of perception, attention, cognitive processes, and adaptability to external stimuli and demands. I want to focus on heterogeneity not as noise but as meaningful variability that is commonly trimmed and flattened.
+-->
+
+Two people can live through the same event and walk away with entirely different memories, interpretations, and responses. Some of that variability reflects shared organizing principles, some is genuinely individual, and some is simply noise from measuring the brain indirectly. What interests me most is that individuality is not fixed: the brain is shaped by experience over time, and an altered brain responds differently to what comes next. I want to understand how this accumulated history is retained, whether in structure, function, or both, and translate it into a form we can interpret, using human MRI and whole-brain network approaches.
 
 <!--
 For more about my research directions and evolving interests, please click [Reserach Interests menu](https://eunahyang.github.io/research-interests/) and [Developing Ideas menu](https://eunahyang.github.io/developing-ideas/).
