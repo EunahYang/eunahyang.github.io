@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Eunah(pronounce: ɯna) and I study network neuroscience. "Why are you and I different?" is my biggest question nowadays.
+Hi, I am Eunah(pronounced: ɯna) and I study network neuroscience. "Why are you and I different?" is my biggest question nowadays, and I want to work it out through human MRI.
+
+
 
 <!--
 I’m interested in understanding how individual differences in cognitive dynamics emerge from adaptive brain network processes and how such representations can improve our ability to describe and predict human behavior. Individuals show distinct patterns of perception, attention, cognitive processes, and adaptability to external stimuli and demands. I want to focus on heterogeneity not as noise but as meaningful variability that is commonly trimmed and flattened.
