@@ -2,10 +2,12 @@
 layout: page
 permalink: /research-interests/
 title: Research Interests
-description: What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order. [Last updated: Dec 2025]
+description: What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order.
 nav: true
 nav_order: 1
 ---
+
+Last updated: Dec 2025
 
 <h4 style="font-weight:700;">Current</h4>
 
