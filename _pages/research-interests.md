@@ -2,7 +2,7 @@
 layout: page
 permalink: /research-interests/
 title: Research Interests
-description: What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order.
+description: What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order. [Last updated: Dec 2025]
 nav: true
 nav_order: 1
 ---
