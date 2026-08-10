@@ -22,6 +22,7 @@ Life experiences are transient, yet they often leave lasting footprints on the m
     Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brain diverge over time, and one remembers what the other forgets. Only images generated with ChatGPT. [prompt](https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing)
 </div>
 
+
 > <p style="font-weight:700;">a. Why do individuals weigh the same experience so differently, to the point where one person forgets it and another carries it for years?</p>
 
 I keep noticing that what we perceive is never a direct copy of the world; it's already a reconstruction built from whatever the senses picked up in the first place. From there, attention keeps deciding what gets amplified internally and externally. Executive control governs how that balance between external and internal attention shifts over time, and together I think of these as the main levers behind how much weight an experience ends up carrying. Some events are shed almost immediately, others become impossible to let go of. I want to understand why individuals differ in how these levers operate, and I'd like to dig further into vulnerability and resilience through that same lens.
