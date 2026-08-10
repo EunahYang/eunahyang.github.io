@@ -46,7 +46,9 @@ Someone once told me that no one is ever fully satisfied with their own research
 -->
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/) <br>
+<!--
 Developing ideas: [Click 'Developing Ideas' menu.](https://eunahyang.github.io/developing-ideas/)
+-->
 
 <br>
 <h4 style="font-weight:700;">Second half of the master's program</h4>
