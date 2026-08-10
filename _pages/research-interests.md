@@ -7,12 +7,9 @@ nav: true
 nav_order: 1
 ---
 
-Last updated: Dec 2025
+Last updated: Inprogress
 
 <h4 style="font-weight:700;">Current</h4>
-
-<!--
-#### Current
 
 Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? And before I can even ask that seriously, what does "different" mean in the first place? These two questions are where my current interests begins.
 
@@ -44,8 +41,8 @@ Precision approaches are only as good as the data they're built on. What raises 
 These four questions sit closer to cognitive neuroscience than to any single disease. The clinical relevance, better-timed and more personalized mental-health intervention, is where I expect this work to eventually matter, but it's a destination, not the starting point. I'm also open to the means shifting: toward brain-computer interfaces, or further toward building the large-scale datasets this kind of question actually requires. What's settled is that I want to study this in the human brain, with human MRI.
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)  
--->
 
+<!--
 Life experiences are transient, yet they often leave lasting footprints on the mind and brain. The brain recognizes, perceives, and translates the experiences, but is also shaped by them, and these processes are unique to every individual. These fingerprint-like cognitive dynamics, and how this variability emerges from brain network dynamics, are my biggest questions.
 
 <!--
@@ -57,6 +54,7 @@ What defines individuals cognitive process and how can we quantify those in
 During the PD research that I have done during my masters, that was a group-level comparison study. But I became aware of how much variability could be lost when collasping into diganostic categories. And by attending conferences, such themes like heterogeneity between individuals and individual prognosis prediction were intriguing. When we conduct a research in a individual level, masking effects during group analysis could be reduced.
 -->
 
+<!--
 <div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/curr_concept.jpeg" title="current concept" class="img-fluid rounded z-depth-1" %}
@@ -76,12 +74,10 @@ Moving beyond categorical descriptions, I seek to represent individuals along la
 
 By embedding latent cognitive factors within the dynamic architecture of brain networks, we may obtain more interpretable and biologically grounded markers of mental function. This integrated approach may offer interpretable markers of mental function that inform when, where, and for whom an intervention is most effective. Ultimately, my goal is to refine theoretical models of cognition while contributing to personalized strategies for mental-health assessment and intervention.
 
-<!--
 Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. Series of new questions began to emerge. Below is a schema of my current questions.
--->
+
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/) <br>
-<!--
 Developing ideas: [Click 'Developing Ideas' menu.](https://eunahyang.github.io/developing-ideas/)
 -->
 
