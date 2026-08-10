@@ -16,32 +16,34 @@ Last updated: Dec 2025
 
 Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? And before I can even ask that seriously, what does "different" mean in the first place? These two questions are where my current interests begins.
 
-![](https://eunahyang.github.io/assets/img/curr_concept_v1.svg "current concept")
+<div class="row"> 
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/curr_concept.jpeg" title="current concept" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brain diverge over time, and one remembers what the other forgets. Only images generated with ChatGPT. [prompt](https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing)
+</div>
 
-Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brain diverge over time, and one remembers what the other forgets.
-
-> a. Why do individuals weigh the same experience so differently, to the point where one person forgets it and another carries it for years?
-
-(이건 내가 학교에서 여러 친구들과 상담도 해보고, 이야기도 해보면서 느낀건데.) The first representation(이게 좀 모호한 것 같음. 나는 바로 이해 되는데, 우리 뇌가 인식하는 세상이 실제 바깥 세상과 이미 1:1이 아니다 왜냐? 이미 어떠한 감각기를 통해 들어온 정보의 integration이니까. 이런 이야기를 하는건데 이 represenation이라는게 바로 나와도 괜찮을까? 내가 의도한대로 읽힐까?) of any experience is already an imperfect translation of the world, filtered through the senses. From there, I think of attention, how much of it gets allocated inward versus outward(이것도 마찬가지, allocated inward vs outward. 직관적으로 그냥 읽어내려갈 수 있나? 아니면 삭제하거나 다른 표현 좀 더 잘 쓰이는 (논문찾아봐) 표현으로 대체), including states like mind wandering, and executive control, which regulates that(WHAT ALLOCATION?) allocation over time, as the two main levers behind how much weight an experience ends up carrying. Some events are shed almost immediately, others become impossible to let go of. I want to understand why individuals differ in how these levers operate, and I'd like to dig further into vulnerability and resilience through that same lens.
+> <p style="font-weight:700;">a. Why do individuals weigh the same experience so differently, to the point where one person forgets it and another carries it for years?</p>
 
 I keep noticing that what we perceive is never a direct copy of the world; it's already a reconstruction built from whatever the senses picked up in the first place. From there, attention keeps deciding what gets amplified internally and externally. Executive control governs how that balance between external and internal attention shifts over time, and together I think of these as the main levers behind how much weight an experience ends up carrying. Some events are shed almost immediately, others become impossible to let go of. I want to understand why individuals differ in how these levers operate, and I'd like to dig further into vulnerability and resilience through that same lens.
 
-> b. How should we represent that weight-assignment process so that it's something we can actually interpret?
+> <p style="font-weight:700;">b. How should we represent that weight-assignment process so that it's something we can actually interpret?</p>
 
 State trajectories, network dynamics, modular organization, gradients: there are several candidate languages for describing how the brain processes and updates in response to experience over time. Each is really an attempt to turn raw brain data into something interpretable, a format that keeps enough of the underlying signal to say something about behavior. While developing a [cross-atlas connectome transformation model](https://eunahyang.github.io/projects/cat/), I found that the choice of representation is not neutral: which one you pick changes how much brain-behavior association, and phenotypic information more broadly, survives the transformation. I want to try a range of approaches like these to get a fuller picture of how this cognitive process actually unfolds in the brain.
 
-> c. Of what we call individual differences, how much is a shared computational principle expressed differently across people, how much is genuine individual signal, and how much is simply noise?
+> <p style="font-weight:700;">c. Of what we call individual differences, how much is a shared computational principle expressed differently across people, how much is genuine individual signal, and how much is simply noise?</p>
 
-These three are probably might never fully separable. What looks like noise in one analysis can turn out to be someone else's signal, and a lot of what gets called "individual" may just be a shared principle wearing a different face. I'm more interested in how the shared and the idiosyncratic coexist. Any claim about what makes someone different also depends on what we're calling normal or shared to begin with, so defining that baseline is crucial. I want to dig into this by working from cases where the same principle produces very different outcomes across people, rather than starting from an average and treating deviations from it as the target.
+These three may never be fully separable. What looks like noise in one analysis can turn out to be someone else's signal, and a lot of what gets called "individual" may just be a shared principle wearing a different face. If people were simply different, with no shared basis at all, thought and behavior would look random. They don't: there's a shared principle underneath, and we diverge from it just enough to become who we are. Any claim about what makes someone different also depends on what we're calling shared or normal to begin with, so defining that baseline is crucial. What interests me is that the line between the two doesn't stay put. It holds fairly steady in basic sensory processing, and loosens considerably in higher-order cognition, like interpreting a story or reasoning about someone else's mind. I want to know where the shared principle still dominates, where individual signal takes over, and what's actually happening in the brain when it does.
 
-> d. Which datasets and methods actually have enough signal-to-noise to capture individual differences, rather than just population averages?
+> <p style="font-weight:700;">d. Which datasets and methods actually have enough signal-to-noise to capture individual differences, rather than just population averages?</p>
 
 Precision approaches are only as good as the data they're built on. What raises that ceiling, I think, is not just larger and better-characterized datasets but methods that let us compare across people without smoothing away the very differences we're trying to find. I'm also drawn to measurement that doesn't stop at a single snapshot: data collection that can adapt as it goes rather than only describing something after the fact.
 
 These four questions sit closer to cognitive neuroscience than to any single disease. The clinical relevance, better-timed and more personalized mental-health intervention, is where I expect this work to eventually matter, but it's a destination, not the starting point. I'm also open to the means shifting: toward brain-computer interfaces, or further toward building the large-scale datasets this kind of question actually requires. What's settled is that I want to study this in the human brain, with human MRI.
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)  
-Developing ideas: [Click 'Developing Ideas' menu.](https://eunahyang.github.io/developing-ideas/)
 -->
 
 Life experiences are transient, yet they often leave lasting footprints on the mind and brain. The brain recognizes, perceives, and translates the experiences, but is also shaped by them, and these processes are unique to every individual. These fingerprint-like cognitive dynamics, and how this variability emerges from brain network dynamics, are my biggest questions.
