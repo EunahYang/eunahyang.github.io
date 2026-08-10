@@ -19,7 +19,7 @@ Life experiences are transient, yet they often leave lasting footprints on the m
     </div>
 </div>
 <div class="caption">
-    Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brain diverge over time, and one remembers what the other forgets. Only images generated with ChatGPT. [prompt](https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing)
+    Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brain diverge over time, and one remembers what the other forgets. Only images generated with ChatGPT.<a href="https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing">prompt</a>
 </div>
 
 
