@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-Last updated: Inprogress
+Last updated: In progress
 
 <h4 style="font-weight:700;">Current</h4>
 
