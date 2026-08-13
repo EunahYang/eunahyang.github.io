@@ -67,7 +67,7 @@ For more about my research directions and evolving interests, please click [Rese
       <img src="assets/img/transdiagnostics_thumbnail.jpg" 
         class="img-fluid rounded z-depth-1" 
         alt="Developing Ideas"
-        style="width:100%; aspect-ratio:4/3; object-fit:contain; object-position:center;">
+        style="width:100%; aspect-ratio:16/9; object-fit:contain; object-position:center;">
     </a>
     <div class="caption text-center mt-2">Developing Ideas</div>
   </div>
