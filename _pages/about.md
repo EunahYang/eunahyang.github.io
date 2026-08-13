@@ -44,7 +44,7 @@ For more about my research directions and evolving interests, please click [Rese
 <div class="row">
   <div class="col-sm">
     <a href="https://eunahyang.github.io/research-interests/">
-      <img src="assets/img/curr_concept.jpeg" 
+      <img src="assets/img/curr_concept_2026.png" 
         class="img-fluid rounded z-depth-1" 
         alt="Research Interests"
         style="width:100%; aspect-ratio:4/3; object-fit:contain; object-position:center;">
