@@ -54,7 +54,7 @@ For more about my research directions and evolving interests, please click [Rese
 
   <div class="col-sm">
     <a href="https://eunahyang.github.io/projects/">
-      <img src="assets/img/a2a-cube.jpg" 
+      <img src="assets/img/pdamyloid_thumbnail.jpg"
         class="img-fluid rounded z-depth-1" 
         alt="Projects"
         style="width:100%; aspect-ratio:4/3; object-fit:contain; object-position:center;">
