@@ -11,7 +11,7 @@ Last updated: August 2026
 
 <h4 style="font-weight:700;">Current</h4>
 
-Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? And before I can even ask that seriously, what does "different" mean in the first place? These two questions are where my current interests begins.
+Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? And before I can even ask that seriously, what does "different" mean in the first place? These two questions are where my current interest begins.
 
 <div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
@@ -19,7 +19,7 @@ Life experiences are transient, yet they often leave lasting footprints on the m
     </div>
 </div>
 <div class="caption">
-    Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brain diverge over time, and one remembers what the other forgets. Only images generated with ChatGPT. <a href="https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing">[prompt]</a>
+    Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brains diverge over time, and one remembers what the other forgets. Only images generated with ChatGPT. <a href="https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing">[prompt]</a>
 </div>
 
 
