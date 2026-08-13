@@ -70,7 +70,9 @@ Moving beyond categorical descriptions, I seek to represent individuals along la
 
 By embedding latent cognitive factors within the dynamic architecture of brain networks, we may obtain more interpretable and biologically grounded markers of mental function. This integrated approach may offer interpretable markers of mental function that inform when, where, and for whom an intervention is most effective. Ultimately, my goal is to refine theoretical models of cognition while contributing to personalized strategies for mental-health assessment and intervention.
 
+<!--
 Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. Series of new questions began to emerge. Below is a schema of my current questions.
+-->
 
 
 <br>
