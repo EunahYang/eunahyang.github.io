@@ -15,7 +15,7 @@ Life experiences are transient, yet they often leave lasting footprints on the m
 
 <div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/curr_concept.jpeg" title="current concept" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/curr_concept_2026.png" title="current concept" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,7 +53,7 @@ During the PD research that I have done during my masters, that was a group-leve
 
 <div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/curr_concept.jpeg" title="current concept" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/curr_concept_2025.jpeg" title="current concept" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
