@@ -12,15 +12,6 @@ Publicly available neuroimaging datasets typically provide preprocessed, parcell
 
 To address this interoperability challenge, I introduce a cross-atlas connectome transformation model by adapting the connectome transformation modeling framework (Yoo et al., 2022). This approach learns low-dimensional representations and mapping between source and target parcellations through PCAs and PLS regression, allowing reconstruction of target-atlas whole-brain connectomes solely from one source-atlas representation without requiring raw fMRI data.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/a2a_scheme.jpg" title="a2a scheme" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Scheme of cross-atlas transformation model.
-</div>
-
 Overall, the connectome transformation modeling framework provides a flexible and generalizable approach for bridging atlas-specific functional connectomes. By enabling cross-atlas mapping without direct access to raw imaging data, this approach helps enhance the comparison and interpretation of large-scale connectome research.
 
 Main Reference:
