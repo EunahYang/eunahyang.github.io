@@ -73,6 +73,11 @@ ninja.data = [{
           description: "[&quot;2025-&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cat/";
+            },},{id: "projects-cross-atlas-connectome-transformation-modeling-addressing-atlas-dependent-discrepancies-in-brain-network-analysis",
+          title: 'Cross-atlas connectome transformation modeling: addressing atlas-dependent discrepancies in brain network analysis',
+          description: "[&quot;2025-&quot;]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cat_past/";
             },},{id: "projects-similarity-based-patient-identification",
           title: 'Similarity-based patient identification',
           description: "2024-",
