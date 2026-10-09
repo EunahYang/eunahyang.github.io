@@ -1,8 +1,3 @@
-# Check
-## Check again
-### Three
-#### Four
-
 📺 I'm very confident that I'm quite talented at binge-watching TV series. I one finished the entire Breaking bad series in a week during the semester. Seriously. Don't get me wrong; I don't spend all my free time watching shows.
 
 🍽️ I love meeting new people and discovering great places to eat. One day, I realized I could do both at once. ntroducing my friends to one another over good food? SOLVES EVERYTHING. MAXIMUM DOPAMINE. And it's even better when people from different parts of my live end up getting along really well. Luckily, I'm not picky eater. I'm up for trying new/seasonal dishes, unfamiliar ingredients, and spices. Unless something looks like a serious threat to my stomach, I’ll probably give it a try.
