@@ -29,12 +29,6 @@ latest_posts:
 
 Hi, I am Eunah(pronounced: ɯna) and I study network neuroscience. "Why are you and I different?" is my biggest question nowadays, and I want to work it out through human MRI.
 
-
-
-<!--
-I’m interested in understanding how individual differences in cognitive dynamics emerge from adaptive brain network processes and how such representations can improve our ability to describe and predict human behavior. Individuals show distinct patterns of perception, attention, cognitive processes, and adaptability to external stimuli and demands. I want to focus on heterogeneity not as noise but as meaningful variability that is commonly trimmed and flattened.
--->
-
 Two people can live through the same event and walk away with entirely different memories, interpretations, and responses. Yet human minds do not respond in a completely random or unrelated way from one another. They follow shared principles, and within those shared principles, individuals still diverge. This individuality is not fixed either. The brain is continuously reshaped by experience, and each altered state changes how it responds to what follows, so these differences keep accumulating over a lifetime. I want to understand how this accumulated history arises and how it is retained, whether in structure, function, or both, and translate that into a form we can interpret, using human MRI and whole-brain network approaches.
 
 <div class="row">
@@ -47,10 +41,6 @@ Earlier, I earned my B.S. in Life Sceince at GIST, where I did my [very first in
 
   </div>
 </div>
-
-<!--
-Before this, I recieved my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [<i>Thesis project</i>](https://eunahyang.github.io/projects/pd-amyloid/)  Earlier, I earned my B.S in Life Science at GIST, worked as an intern in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. [<i>Bachelor Project</i>](https://eunahyang.github.io/projects/eosinophil-bbb/)
--->
 
 <!--
 Formats:
