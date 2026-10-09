@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /personal/
 title: Personal
-description: More information of myself, including non-academic ones
+description: A few things about me that have little (or nothing) to do with research
 nav: true
 nav_order: 5
 
@@ -13,6 +13,4 @@ profiles:
     image: prof_pic.jpg
     content: about_eunah.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Seoul, Korea</p>
 ---
