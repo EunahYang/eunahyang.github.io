@@ -1,8 +1,3 @@
-# Check
-## Check again
-### Three
-#### Four
-
 📺 I'm very confident that I'm quite talented at binge-watching TV series. I one finished the entire Breaking bad series in a week during the semester. Seriously. Don't get me wrong; I don't spend all my free time watching shows.
 
 🍽️ I love meeting new people and discovering great places to eat. One day, I realized I could do both at once. ntroducing my friends to one another over good food? SOLVES EVERYTHING. MAXIMUM DOPAMINE. And it's even better when people from different parts of my live end up getting along really well. Luckily, I'm not picky eater. I'm up for trying new/seasonal dishes, unfamiliar ingredients, and spices. Unless something looks like a serious threat to my stomach, I’ll probably give it a try.
@@ -11,12 +6,4 @@
 
 🏊 I started swimming since I was really little, and as far as I remember, I have a small gold meadal for a butterfly sprint with my name on it. Nowadays, I'm not training for competitions, but I still swim on a swimming lane whenever I travel in a hotel. I really love being in water. I'm learning tennis and golf recently, and I hope to become good enough to actually a proper game soon.
 
-🚶 I'm a certified directionally challenged. But I'm oddly proud of it. 
-
-
-
-I tend to remember places by the colors of their walls, the shapes of buildings, and the general atmosphere rather than where they sit on a map. Give me a map and I'll get there eventually, though.
-
-I love walking without a particular destination, especially when I'm traveling. I'm more drawn to interesting architecture, little side streets, and neighborhoods with their own character than to checking off famous tourist attractions.
-
-Unless I'm in a real hurry, I usually end up walking over 10,000 steps a day.
+🚶 I'm a certified directionally challenged. But I'm oddly proud of it. I tend to remember places by the colors of the walls, shape and arrangement of the buildings, and the general atmosphere rather than the exact coordinates on the map. Of course, I can head to a certain destination when I have a map on my hand. I love walking without a particular destination. So I love to drop by the places with interesting buildings when I travel, passing little side streets, and love streets with their own character. Unless I'm in a real hurry, I normally walk over 10k steps a day.
