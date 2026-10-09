@@ -37,42 +37,6 @@ I’m interested in understanding how individual differences in cognitive dynami
 
 Two people can live through the same event and walk away with entirely different memories, interpretations, and responses. Yet human minds do not respond in a completely random or unrelated way from one another. They follow shared principles, and within those shared principles, individuals still diverge. This individuality is not fixed either. The brain is continuously reshaped by experience, and each altered state changes how it responds to what follows, so these differences keep accumulating over a lifetime. I want to understand how this accumulated history arises and how it is retained, whether in structure, function, or both, and translate that into a form we can interpret, using human MRI and whole-brain network approaches.
 
-<!--
-For more about my research directions and evolving interests, please click [Reserach Interests menu](https://eunahyang.github.io/research-interests/) and [Developing Ideas menu](https://eunahyang.github.io/developing-ideas/).
--->
-
-<div class="row">
-  <div class="col-sm">
-    <a href="https://eunahyang.github.io/research-interests/">
-      <img src="assets/img/curr_concept_2026.png" 
-        class="img-fluid rounded z-depth-1" 
-        alt="Research Interests"
-        style="width:100%; aspect-ratio:16/9; object-fit:contain; object-position:center;">
-    </a>
-    <div class="caption text-center mt-2">Research Interests</div>
-  </div>
-
-  <div class="col-sm">
-    <a href="https://eunahyang.github.io/projects/">
-      <img src="assets/img/pdamyloid_thumbnail.jpg"
-        class="img-fluid rounded z-depth-1" 
-        alt="Projects"
-        style="width:100%; aspect-ratio:16/9; object-fit:contain; object-position:center;">
-    </a>
-    <div class="caption text-center mt-2">Current/past projects</div>
-  </div>
-
-  <div class="col-sm">
-    <a href="https://eunahyang.github.io/developing-ideas/">
-      <img src="assets/img/transdiagnostics_thumbnail.jpg" 
-        class="img-fluid rounded z-depth-1" 
-        alt="Developing Ideas"
-        style="width:100%; aspect-ratio:16/9; object-fit:contain; object-position:center;">
-    </a>
-    <div class="caption text-center mt-2">Developing Ideas</div>
-  </div>
-</div>
-
 <div class="row">
   <div class="col-sm" markdown="1"> 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). [My current works](https://eunahyang.github.io/projects/#Current) focus on bridging computational modeling and cognitive neuroscience with brain networks. Currently, I use brain MRI data to build connectome-based predictive models, and I develop methods for making these data comparable across different processing choices without losing individual-level patterns. This helps me explore how brain network organization informs individualized cognition and phenotypic differences.
