@@ -11,12 +11,4 @@
 
 🏊 I started swimming since I was really little, and as far as I remember, I have a small gold meadal for a butterfly sprint with my name on it. Nowadays, I'm not training for competitions, but I still swim on a swimming lane whenever I travel in a hotel. I really love being in water. I'm learning tennis and golf recently, and I hope to become good enough to actually a proper game soon.
 
-🚶 I'm a certified directionally challenged. But I'm oddly proud of it. 
-
-
-
-I tend to remember places by the colors of their walls, the shapes of buildings, and the general atmosphere rather than where they sit on a map. Give me a map and I'll get there eventually, though.
-
-I love walking without a particular destination, especially when I'm traveling. I'm more drawn to interesting architecture, little side streets, and neighborhoods with their own character than to checking off famous tourist attractions.
-
-Unless I'm in a real hurry, I usually end up walking over 10,000 steps a day.
+🚶 I'm a certified directionally challenged. But I'm oddly proud of it. I tend to remember places by the colors of the walls, shape and arrangement of the buildings, and the general atmosphere rather than the exact coordinates on the map. Of course, I can head to a certain destination when I have a map on my hand. I love walking without a particular destination. So I love to drop by the places with interesting buildings when I travel, passing little side streets, and love streets with their own character. Unless I'm in a real hurry, I normally walk over 10k steps a day.
