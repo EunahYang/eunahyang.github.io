@@ -31,16 +31,11 @@ Hi, I am Eunah(pronounced: ɯna) and I study network neuroscience. "Why are you 
 
 Two people can live through the same event and walk away with entirely different memories, interpretations, and responses. Yet human minds do not respond in a completely random or unrelated way from one another. They follow shared principles, and within those shared principles, individuals still diverge. This individuality is not fixed either. The brain is continuously reshaped by experience, and each altered state changes how it responds to what follows, so these differences keep accumulating over a lifetime. I want to understand how this accumulated history arises and how it is retained, whether in structure, function, or both, and translate that into a form we can interpret, using human MRI and whole-brain network approaches.
 
-<div class="row">
-  <div class="col-sm" markdown="1"> 
 Currently, I'm a research assistant at Samsung Medical Center (SMC), working with [Prof. Kwangsun Ray Yoo](https://scholar.google.com/citations?user=Y6ogPgMAAAAJ&hl=ko). [My current works](https://eunahyang.github.io/projects/#Current) focus on bridging computational modeling and cognitive neuroscience with brain networks. Currently, I use brain MRI data to build connectome-based predictive models, and I develop methods for making these data comparable across different processing choices without losing individual-level patterns. This helps me explore how brain network organization informs individualized cognition and phenotypic differences.
 
 Before this, I received my M.S. in the Dept. of Bio and Brain Engineering at KAIST, under the supervision of [Prof. Yong Jeong](https://scholar.google.com/citations?user=zsVfg6sAAAAJ&hl=ko). [My project](https://eunahyang.github.io/projects/pd-amyloid/) explored Parkinson's disease heterogeneity from a mixed-pathological perspective, focusing on the cognitive and neuropsychiatric burdens beyond motor deficits. 
 
 Earlier, I earned my B.S. in Life Sceince at GIST, where I did my [very first individual project](https://eunahyang.github.io/projects/eosinophil-bbb/) in [Prof. Tae Kim](https://scholar.google.com/citations?user=A_diSGUAAAAJ&hl=en)'s lab. I explored how eosinophilia-induced hypoxia affects brain vasculature integrity in mice. 
-
-  </div>
-</div>
 
 <!--
 Formats:
