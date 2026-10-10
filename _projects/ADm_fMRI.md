@@ -2,7 +2,7 @@
 layout: page
 title: "Longitudinal sensory-evoked fMRI reveals early hyperactivity, network hypersynchrony, and modular disruption in a preclinical model of Alzheimer’s disease"
 description: [2025-]
-img: assets/img/a2a-thumbnail.jpg
+img: assets/img/ADm_fMRI-thumbnail.jpg
 importance: 2
 category: Current
 # giscus_comments: false
