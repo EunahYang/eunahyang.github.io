@@ -1,3 +1,4 @@
+<div style="overflow: hidden;" markdown="1">
 📺 I'm very confident that I'm quite talented at binge-watching TV series. I once finished the entire Breaking bad series in a week during the semester.
 
 🧑‍🤝‍🧑 I love meeting new people and discovering great places to eat. Introducing my friends to one another over good food is even better when people from different parts of my live end up getting along really well.
@@ -13,3 +14,4 @@
 🚶 I’m notoriously bad with directions, but I’m oddly proud of it. I love walking without a particular destination. So I love to drop by the places with interesting buildings, wandering through little side streets, and love streets with their own character.
  
 👟 Unless I’m in a real hurry, I usually walk over 10,000 steps a day.
+</div>
