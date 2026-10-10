@@ -26,7 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="overflow: hidden;" markdown="1">
+<style>
+  @media (min-width: 576px) {
+    .about-text { overflow: hidden; }
+  }
+</style>
+
+<div class="about-text" markdown="1">
 
 Hi, I am Eunah(pronounced: ɯna) and I study network neuroscience. "Why are you and I different?" is my biggest question nowadays, and I want to work it out through human MRI.
 
