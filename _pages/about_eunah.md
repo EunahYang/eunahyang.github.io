@@ -1,6 +1,4 @@
-📺 I'm very confident that I'm quite talented at binge-watching TV series. I once finished the entire Breaking bad series in a week during the semester. Seriously.
-
-Don't get me wrong; I don't spend all my free time watching shows.
+📺 I'm very confident that I'm quite talented at binge-watching TV series. I once finished the entire Breaking bad series in a week during the semester.
 
 🍽️ I love meeting new people and discovering great places to eat. One day, I realized I could do both at once. ntroducing my friends to one another over good food? SOLVES EVERYTHING. MAXIMUM DOPAMINE.
 
@@ -22,10 +20,6 @@ These days, I’m not training for competitions, but I still try to get some lap
 
 I’ve also recently started learning tennis and golf, and I hope to get good enough to play a proper game soon.
 
-🚶 I’m notoriously bad with directions, but I’m oddly proud of it.
+🚶 I’m notoriously bad with directions, but I’m oddly proud of it. Unless I’m in a real hurry, I usually walk over 10,000 steps a day.
 
-I tend to remember places by the colors of their walls, the shapes and arrangements of buildings, and the general atmosphere rather than their exact locations on a map. Of course, I can find my way to a destination with a map in hand.
-
-I love walking without a particular destination. So I love to drop by the places with interesting buildings, wandering through little side streets, and love streets with their own character.
-
-Unless I’m in a real hurry, I usually walk over 10,000 steps a day.
+I tend to remember places by the shapes and arrangements of buildings and the general atmosphere rather than their exact locations on a map. I love walking without a particular destination. So I love to drop by the places with interesting buildings, wandering through little side streets, and love streets with their own character.
