@@ -8,30 +8,4 @@ category: Current
 # giscus_comments: false
 ---
 
-Publicly available neuroimaging datasets typically provide preprocessed, parcellated data (e.g., brain connectomes) based on specific brain atlases as a pragmatic solution to maximize data accessibility and reuse under privacy, computational, and storage constraints. However, reliance on predefined parcellations limits interoperability, as structural or functional connectomes (FC) from different atlases cannot be directly compared due to variations in spatial distribution. Understanding and resolving these atlas-dependent differences is essential for improving reproducibility in connectome-based brain research.
-
-To address this interoperability challenge, I introduce a cross-atlas connectome transformation model by adapting the connectome transformation modeling framework (Yoo et al., 2022). This approach learns low-dimensional representations and mapping between source and target parcellations through PCAs and PLS regression, allowing reconstruction of target-atlas whole-brain connectomes solely from one source-atlas representation without requiring raw fMRI data.
-
-Overall, the connectome transformation modeling framework provides a flexible and generalizable approach for bridging atlas-specific functional connectomes. By enabling cross-atlas mapping without direct access to raw imaging data, this approach helps enhance the comparison and interpretation of large-scale connectome research.
-
-Main Reference:
-Yoo, K., Rosenberg, M. D., Kwon, Y. H., Scheinost, D., Constable, R. T., & Chun, M. M. (2022). A cognitive state transformation model for task-general and task-specific subsystems of the brain connectome. NeuroImage, 257, 119279–119279. https://doi.org/10.1016/j.neuroimage.2022.119279
-
-<p style="font-weight:700;">Presentations (inculding upcoming events):</p>
-- KSBNS 2026 (Korean Society for Brain and Neural Sciences), Daejeon, Korea (2026, September 06-08)
-- SfN 2025 (Society for Neuroscience), San Diego, US (2025, November 15-19)
-- KHBM 2025 Fall Conference (Korean Society of Human Brain Mapping), Seoul, Korea (2025, November 06-07)
-
-<p style="font-weight:700;">Award:</p>
-- Best Poster Presentation Award (KHBM 2025 Fall Conference) 
-
-<p style="font-weight:700;">Presentation Materials:</p>
-<div style="position:relative; padding-top: 0;">
-  <iframe
-    src="https://drive.google.com/file/d/1rRLBDkD3saXDD-I3IrA9QLCI8BAJHR8B/preview"
-    width="100%"
-    height="600"
-    allow="autoplay"
-    style="border:0;">
-  </iframe>
-</div>
+Alzheimer's disease (AD) unfolds over a prolonged asymptomatic phase in which neural and network dysfunction precedes overt cognitive decline. However, sensitive noninvasive biomarkers that capture both local circuit abnormalities and large-scale network reorganization remain limited. Here, we performed longitudinal functional magnetic resonance imaging (fMRI) in the Swedish-Dutch-Iowa (Tg-SwDI) mouse model of AD and combined visual- and olfactory-evoked fMRI with temporal, hierarchical, clustering, and resting-state connectivity analyses. Visual stimulation revealed widespread hyperactivity at 2 months, particularly in hippocampal, prefrontal, thalamic, and higher-order visual regions, whereas olfactory abnormalities were more spatially restricted and most prominent at 3 months. These modality-specific changes were accompanied by altered response dynamics, increased temporal synchrony, and reduced resting-state modularity and network segregation at 3 months, before marked spatial working-memory impairment at 6 months. By 6 months, several prefrontal and thalamic regions showed reduced responsiveness. Together, these findings support a longitudinal framework in which early sensory-evoked hyperactivity is followed by a transitional state characterized by emerging hypersynchrony, abnormal temporal coordination, and reduced network segregation, and subsequently by regional hypoactivity and marked cognitive impairment. These convergent alterations suggest progressive destabilization of large-scale network organization during disease progression. Sensory-evoked fMRI may therefore provide a behavior-independent, systems-level approach for detecting early functional vulnerability and identifying candidate biomarkers of preclinical AD.
