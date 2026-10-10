@@ -1,4 +1,10 @@
-<div style="overflow: hidden;" markdown="1">
+<style>
+  @media (min-width: 576px) {
+    .about-text { overflow: hidden; }
+  }
+</style>
+
+<div class="about-text" markdown="1">
  
 📺 I'm very confident that I'm quite talented at binge-watching TV series. I once finished the entire Breaking bad series in a week during the semester.
 
