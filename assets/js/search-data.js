@@ -85,7 +85,7 @@ ninja.data = [{
               window.location.href = "/projects/cat/";
             },},{id: "projects-similarity-based-patient-identification",
           title: 'Similarity-based patient identification',
-          description: "2024-",
+          description: "2024-2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/delta_check/";
             },},{id: "projects-parasite-induced-hypercoagulability-and-its-potential-harmful-effect-on-cerebrovascular-system",
