@@ -85,7 +85,7 @@ ninja.data = [{
               window.location.href = "/projects/delta_check/";
             },},{id: "projects-parasite-induced-hypercoagulability-and-its-potential-harmful-effect-on-cerebrovascular-system",
           title: 'Parasite-induced hypercoagulability and its potential harmful effect on cerebrovascular system',
-          description: "[&quot;2020-2022&quot;]",
+          description: "[&quot;2020-2021&quot;]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eosinophil-bbb/";
             },},{id: "projects-association-of-amyloid-copathology-and-white-matter-network-in-parkinson-disease",
