@@ -3,7 +3,7 @@ layout: page
 title: Parasite-induced hypercoagulability and its potential harmful effect on cerebrovascular system
 description: [2020-2021] 
 img: assets/img/eosinophil_thumbnail.jpg
-importance:98
+importance: 98
 category: Past
 ---
 
