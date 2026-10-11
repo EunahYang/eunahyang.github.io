@@ -4,7 +4,7 @@ title: Similarity-based patient identification
 description: 2024-2025
 img: assets/img/deltacheck_thumbnail.jpg
 importance: 3
-category: Current
+category: Previous
 ---
 
 Electronic medical records (EMR) sometimes contain risks of data corruption due to human error: such as mislabeled samples or mistakes during the digitization of handwritten documents. Even if such cases are rare, they can have a critical impact on accurately tracking a patient’s clinical history and prognosis.
