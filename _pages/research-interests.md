@@ -42,7 +42,7 @@ Precision approaches are only as good as the data they're built on. What raises 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)
 
 <br>
-<h4 style="font-weight:700;">Previous research interests</h4>
+<h4 style="font-weight:700;">Post-master's (early)</h4>
 
 <!--
 During the latter part of my master’s project, I began to question how individuals behave, think, and feel, and what it truly means to live with reduced motivation or emotional flatness. As I worked with clinical data, I realized that much of the individuality behind these experiences was lost when transformed into numerical scalars or group-level averages. Those numbers, labeled as “apathy” or “motivation,” often felt disconnected from the 4D human (lived realities) they were meant to represent. This realization led me to think about how we might better capture cognitive and behavioral phenotype that differ across individuals. Through prediction modeling, I came to see that identifying meaningful features that explain variance in outcomes offers a more individualized view of brain–behavior relationships. Yet studies of higher-order cognition and neuropsychiatric phenotypes frequently implicate overlapping regions, raising questions about how to represent the brain in a way that reflects its functional diversity. These experiences shaped my current focus on biologically grounded, multivariate representations of cognition that link brain network organization with individual differences in mental processes and behavior.
