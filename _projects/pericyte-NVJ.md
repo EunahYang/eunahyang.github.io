@@ -3,7 +3,7 @@ layout: page
 title: "Mechanical constraints with arterial stiffness having impact on neurovascular coupling and microvascular flow regulation"
 description: [2022]
 img: assets/img/pericyte_thumbnail.jpg
-importance: 100-3
+importance: 97
 category: Past
 ---
 
