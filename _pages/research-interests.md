@@ -41,6 +41,20 @@ Precision approaches are only as good as the data they're built on. What raises 
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)
 
+<h4 style="font-weight:700;">Current</h4>
+
+Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? What does “different” mean, and how can it be quantified reliably? These two questions are where my current interest begins.
+
+<div class="row"> 
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/curr_concept_2026.png" title="current concept" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brains diverge over time, and one significantly changes their behavior, while the other doesn't. Hand-drawn-style illustrations were made with ChatGPT <a href="https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing">[prompt]</a>, other graphs and the overall composition were made in Adobe Illustrator.
+</div>
+
+
 
 <br>
 <h4 style="font-weight:700;" data-toc-text="Master's (2nd half)">Second half of the master's program</h4>
