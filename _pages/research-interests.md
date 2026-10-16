@@ -15,16 +15,6 @@ Last updated: October 2026
 
 Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? What does “different” mean, and how can it be quantified reliably? These two questions are where my current interest begins.
 
-<div class="row"> 
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/curr_concept_2026.png" title="current concept" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Scheme of current research questions. A shared experience reaches two people. They assign it different weight, their brains diverge over time, and one significantly changes their behavior, while the other doesn't. Hand-drawn-style illustrations were made with ChatGPT <a href="https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing">[prompt]</a>, other graphs and the overall composition were made in Adobe Illustrator.
-</div>
-
-
 > <p style="font-weight:700;">a. Why do individuals interpret and weigh the same experience so differently, to the point where one person forgets it and another carries it for years?</p>
 
 What we perceive is not a direct copy of the world. It is already a reconstruction built from whatever the senses picked up. From there, the brain moves through different configurations of cognitive processes, such as attention allocation, executive control, and mind wandering, and the transitions among them decide which pieces of information get amplified, externally and internally. Some pieces are dimmed almost immediately, others become impossible to let go of and shape how later information is processed. Over time, this gradually alters an individual’s priors (or biases), engraved as large-scale brain networks. I want to understand why individuals differ in how these processes operate, giving rise to different emotional and behavioral patterns.
@@ -41,9 +31,8 @@ Precision approaches are only as good as the data they're built on. What raises 
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)
 
-<h4 style="font-weight:700;">Current</h4>
-
-Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? What does “different” mean, and how can it be quantified reliably? These two questions are where my current interest begins.
+<br>
+<h4 style="font-weight:700;">Post-master's (early)</h4>
 
 <div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
