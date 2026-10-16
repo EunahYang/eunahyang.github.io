@@ -8,7 +8,6 @@ nav_order: 1
 toc:
   sidebar: left
 ---
-
 Last updated: October 2026
 
 <h4 style="font-weight:700;">Current</h4>
