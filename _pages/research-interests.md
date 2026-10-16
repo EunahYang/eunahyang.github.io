@@ -9,11 +9,11 @@ toc:
   sidebar: left
 ---
 
-Last updated: August 2026
+Last updated: October 2026
 
 <h4 style="font-weight:700;">Current</h4>
 
-Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? And before I can even ask that seriously, what does "different" mean in the first place? These two questions are where my current interest begins.
+Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? What does “different” mean, and how can it be quantified reliably? These two questions are where my current interest begins.
 
 <div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
@@ -25,9 +25,9 @@ Life experiences are transient, yet they often leave lasting footprints on the m
 </div>
 
 
-> <p style="font-weight:700;">a. Why do individuals weigh the same experience so differently, to the point where one person forgets it and another carries it for years?</p>
+> <p style="font-weight:700;">a. Why do individuals interpret and weigh the same experience so differently, to the point where one person forgets it and another carries it for years?</p>
 
-I keep noticing that what we perceive is never a direct copy of the world. it's already a reconstruction built from whatever the senses picked up in the first place. From there, attention keeps deciding what gets amplified internally and externally. Executive control governs how that balance between external and internal attention shifts over time, and together I think of these as the main levers behind how much weight an experience ends up carrying. Some events are shed almost immediately, others become impossible to let go of. I want to understand why individuals differ in how these levers operate, and I'd like to dig further into vulnerability and resilience through that same lens.
+What we perceive is not a direct copy of the world. It is already a reconstruction built from whatever the senses picked up. From there, the brain moves through different configurations of cognitive processes, such as attention allocation, executive control, and mind wandering, and the transitions among them decide which pieces of information get amplified, externally and internally. Some pieces are dimmed almost immediately, others become impossible to let go of and shape how later information is processed. Over time, this gradually alters an individual’s priors (or biases), engraved as large-scale brain networks. I want to understand why individuals differ in how these processes operate, giving rise to different emotional and behavioral patterns.
 
 > <p style="font-weight:700;">b. How should we represent that weight-assignment process so that it's something we can actually interpret?</p>
 
@@ -40,41 +40,6 @@ These three may never be fully separable. What looks like noise in one analysis 
 Precision approaches are only as good as the data they're built on. What raises that ceiling, I think, is a combination of deeply sampled datasets with larger subject numbers and methods that help us compare across people without smoothing away the very differences we're trying to find. I hope to eventually contribute to better-timed and more personalized mental-health intervention. But that's a destination, not the starting point. I'm also open to the means shifting, toward brain-computer interfaces, or further toward building the large-scale datasets this kind of question actually requires. What's settled is that I want to study this in the human brain with human MRI.
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)
-
-<br>
-<h4 style="font-weight:700;">Post-master's (early)</h4>
-
-<!--
-During the latter part of my master’s project, I began to question how individuals behave, think, and feel, and what it truly means to live with reduced motivation or emotional flatness. As I worked with clinical data, I realized that much of the individuality behind these experiences was lost when transformed into numerical scalars or group-level averages. Those numbers, labeled as “apathy” or “motivation,” often felt disconnected from the 4D human (lived realities) they were meant to represent. This realization led me to think about how we might better capture cognitive and behavioral phenotype that differ across individuals. Through prediction modeling, I came to see that identifying meaningful features that explain variance in outcomes offers a more individualized view of brain–behavior relationships. Yet studies of higher-order cognition and neuropsychiatric phenotypes frequently implicate overlapping regions, raising questions about how to represent the brain in a way that reflects its functional diversity. These experiences shaped my current focus on biologically grounded, multivariate representations of cognition that link brain network organization with individual differences in mental processes and behavior.
-
-In the latter phase of my master’s work, I realized that group-level labels and numerical scores often obscured what mattered most: the lived, heterogeneous experiences of individuals. Voxel-level associations frequently overlapped across regions, reinforcing that our conclusions hinge on how we represent the brain—through atlases, eigenmodes, or connectivity. This led me to move beyond categorical comparisons toward biologically grounded, multivariate representations at the network level. That shift now motivates my central questions: (a) individual differences in cognitive state transitions, (b) predictive, biologically anchored representations of cognition, and (c) interpretable links between latent cognitive dimensions and network dynamics for personalized interventions.
-
-What defines individuals cognitive process and how can we quantify those in
-During the PD research that I have done during my masters, that was a group-level comparison study. But I became aware of how much variability could be lost when collasping into diganostic categories. And by attending conferences, such themes like heterogeneity between individuals and individual prognosis prediction were intriguing. When we conduct a research in a individual level, masking effects during group analysis could be reduced.
--->
-
-<div class="row"> 
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/curr_concept_2025.jpeg" title="current concept" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Scheme of current reserach queistons. Brain interprets the world. At the same time, brain networks continuously adapt to external stimuli, leading to diverging emotional and behavioral outcomes in each individuals.
-</div>
-
-> <p style="font-weight:700;">a. How do individual differences in cognitive state transitions shape how people interpret and adapt to internal and external experiences?</p>
-
-Even when facing identical environments, people perceive, evaluate, and internalize experiences differently. These variations likely arise from distinct configurations and transitions among cognitive processes such as attention allocation, mind wandering, and executive control. Cognition dynamically interacts with external inputs and gradually alters individual’s priors (or biases) carved as large-scale brain networks. I aim to understand how differences in cognitive state transitions, especially those governing internally oriented attention, give rise to stable behavioral and emotional patterns across individuals.
-> <p style="font-weight:700;">b. How can biologically grounded, multivariate representations of cognition capture latent individual differences?</p>
-
-Moving beyond categorical descriptions, I seek to represent individuals along latent cognitive dimensions derived from multivariate modeling of brain–behavior association. Such representations can reveal continuous axes of phenotypic variability and give cornerstone of neural mechanisms underlying individual uniqueness in cognitive dynamics described in question a. By anchoring these representations in biological substrates, I hope to study representations that are both predictive of individual behavior and interpretable in terms of underlying brain network organization.
-> <p style="font-weight:700;">c. How can integrating latent cognitive dimensions with brain network dynamics advance interpretable and personalized interventions?</p>
-
-By embedding latent cognitive factors within the dynamic architecture of brain networks, we may obtain more interpretable and biologically grounded markers of mental function. This integrated approach may offer interpretable markers of mental function that inform when, where, and for whom an intervention is most effective. Ultimately, my goal is to refine theoretical models of cognition while contributing to personalized strategies for mental-health assessment and intervention.
-
-<!--
-Someone once told me that no one is ever fully satisfied with their own research. There there are always shortcommings, remaining (and even emerging) questions, and things you wish you had done differently. I felt the same as I wrapped up my master's project. Series of new questions began to emerge. Below is a schema of my current questions.
--->
 
 
 <br>
