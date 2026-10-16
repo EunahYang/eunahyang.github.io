@@ -14,7 +14,7 @@ ninja.data = [{
           description: "What excites me keeps changing. Here is a record of my academic journey and current curiosities. Reading from the bottom section might help, since the sections are in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research-interests/";
+            window.location.href = "/%5Bdep%5Dresearch-interests/";
           },
         },{id: "nav-research-interests",
           title: "Research Interests",
