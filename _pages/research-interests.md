@@ -38,7 +38,13 @@ Brief descriptions of my current projects: [Click 'Current' section of the Proje
     Schematic figure of my research questions. A shared experience reaches two people. They assign it different weight, their brains diverge over time, and one significantly changes their behavior, while the other doesn't. Hand-drawn-style illustrations were made with ChatGPT <a href="https://docs.google.com/document/d/1yk_ldRVAIIzMDgKmq9tm0DEIMPSBLERuiD17354Y180/edit?usp=sharing">[prompt]</a>, other graphs and the overall composition were made in Adobe Illustrator.
 </div>
 
+> <p style="font-weight:700;">a. What underlying components are shared across symptoms and disorders that we usually describe separately?</p>
 
+My interest in this question grew from studying symptom heterogeneity in Parkinson’s disease. I began to question how well clinical scores and diagnostic categories capture the processes underlying diverse neuropsychiatric symptoms. Could symptoms described separately share underlying neural processes, while similar clinical presentations arise through different pathways? I became interested in a transdiagnostic approach, using multiple behavioral and clinical measures to explore latent phenotypic dimensions and their relationships with brain network organization.
+
+> <p style="font-weight:700;">b. How might differences in the flexibility of brain network states contribute to individual vulnerability?</p>
+
+I was interested in how brain networks respond to changing demands, and why some individuals might become more likely to remain in patterns associated with persistent emotional or behavioral difficulties. In particular, I wanted to explore how prior experiences and incoming stimuli influence transitions between states, and whether these processes could help explain differences in vulnerability across individuals. Connecting these dynamics with phenotypic dimensions was a way to ask which processes might be relevant targets for more personalized intervention.
 
 <br>
 <h4 style="font-weight:700;" data-toc-text="Master's (2nd half)">Second half of the master's program</h4>
