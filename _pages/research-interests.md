@@ -8,8 +8,6 @@ nav_order: 1
 toc:
   sidebar: left
 ---
-Last updated: October 2026
-
 <h4 style="font-weight:700;">Current</h4>
 
 Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? What does “different” mean, and how can it be quantified reliably? These two questions are where my current interest begins.
