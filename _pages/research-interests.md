@@ -84,7 +84,7 @@ My research began to take a new direction toward human neuroimaging and network-
 
 Detailed information about the Parkinson's disease project with Yonsei Severance Hospital: [Click here](https://eunahyang.github.io/projects/pd-amyloid/)
 
-> How would the individuals behave, think or feel? What would it mean to live with reduced drive or emotional flatness?<br>And how could those phenotype originate from the brain's architecture?
+> <p style="font-weight:700;"> How would the individuals behave, think or feel? What would it mean to live with reduced drive or emotional flatness?<br>And how could those phenotype originate from the brain's architecture?
 
 While working on this project, I began to think deeply about disease complexity and individual heterogeneity. Patient with the same diagnosis could differ significantly in their symptoms and experiences. When I saw columns labeled 'apathy' or 'motivation' in the dataset (represented as numerical scores), I found it difficult to envision what those numbers actulally represented in an actual human being. Even after reading the questionnaires that was used to derive those scores, I kept wondering what these humans with that score/lables felt like from the inside. That gap between quantified measures and realities became one of the most interesting and unresolved questions for me.
 
@@ -93,7 +93,7 @@ While working on this project, I began to think deeply about disease complexity 
 
 In the early part of my master’s program, I was interested in how how the brain distributes energy with precise spatiotemporal coordination. Neurons fire within milliseconds, while vessels adjust over seconds, yet the resulting hemodynamic signal remains coherent across space and time.
 
-> How is such temporal precision and region specific coordination maintained in the neurovascular system?<br>What happens when the mechanical condition of this system begin to fail?
+> <p style="font-weight:700;"> How is such temporal precision and region specific coordination maintained in the neurovascular system?<br>What happens when the mechanical condition of this system begin to fail?
 
 These questions led me to view neurovascular coupling as a dynamic control problem embedded in a hierarchical vascular network. I learned that the hierarchical organization of the brain vessel especially interesting. Vessels close to proximal branches (or small-order branches) are surrounded by smooth muscle cells with active contractility, but as vessels bifurcate into smaller perforating branches that penetrate deeper into the parenchyma, they are no longer wrapped by smooth muscle cells but by less contractile pericytes and even endothelial cells. This graudal loss of contractility makes deeper vessels respond more paassively. Then how does a neuronal response occurring deep in the tissue communicate upstream to secure the needed blood supply?
 
@@ -110,7 +110,7 @@ Later, during a fully funded exchange semester, returning at Berkeley, I took <i
 Sometimes, understanding a disorder more accurately and carefully measuring its risk factors could directly improve quality of lives. That was the moment I began to see neuroscience not just as molecular mechanisms of the brain, but as a way to connect scientific understanding to real human outcomes.
 
 At that time, I was obsessed with the idea:
-> What makes something truly interventible? Are there modifiable and systmic factors that can indirectly have an impact on brain health in broad populations?
+> <p style="font-weight:700;"> What makes something truly interventible? Are there modifiable and systmic factors that can indirectly have an impact on brain health in broad populations?
 
 Returning to Korea, I began my first full-time internship with this question in mind. For detailed project description: [click here](https://eunahyang.github.io/projects/eosinophil-bbb/)
 
