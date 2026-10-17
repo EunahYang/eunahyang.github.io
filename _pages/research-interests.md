@@ -18,9 +18,9 @@ What we perceive is not a direct copy of the world. It is already a reconstructi
 
 > <p style="font-weight:700;">b. How can we better represent the brain to capture individual differences in biologically interpretable ways?</p>
 
-Studying during my [cross-atlas connectome transformation project](https://eunahyang.github.io/projects/cat/), I questioned how our choices in processing and summarizing brain data shape what we can learn about individuals. Raw brain data are too high-dimensional to interpret directly, so they have to be processed and abstracted, but every abstraction also discards something. I want to understand which aspects of individual variation different representations capture, how reliably they capture them, and what those differences mean biologically. I hope to use these representations to investigate brain–behavior relationships and better understand why people differ in how they process and respond to experience.
+Studying during my [cross-atlas connectome transformation project](https://eunahyang.github.io/projects/cat/), I questioned how our choices in processing and summarizing brain data shape what we can learn about individuals. 
 
-I am also very interested in precision approaches that characterize individuals through deeply sampled and repeated measurements. It would be interesting to understand what remains consistent within a person, what varies across contexts, and how these patterns relate to differences between people. Combining deeply sampled individual data with broader population datasets could help connect what we learn about one person with what generalizes across people.
+I want to understand which aspects of brain organization different representations capture, how reliably they reflect patterns shared across individuals and those specific to each person, and what these patterns reveal about cognitive processes. By examining both shared and individual-specific features, I hope to better understand the neural basis of cognition and why people differ in how they process and respond to experience.
 
 Brief descriptions of my current projects: [Click 'Current' section of the Project menu.](https://eunahyang.github.io/projects/)
 
