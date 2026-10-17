@@ -10,7 +10,7 @@ toc:
 ---
 <h4 style="font-weight:700;">Current</h4>
 
-Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? What does “different” mean, and how can it be quantified reliably? These two questions are where my current interest begins.
+Life experiences are transient, yet they often leave lasting footprints on the mind and brain. Two people can live through nearly identical moments and come out changed in entirely different ways. Why are you and I different? How can we define “different” and how can it be quantified reliably? These two questions are where my current interest begins.
 
 > <p style="font-weight:700;">a. Why do individuals interpret and weigh the same experience so differently, to the point where one person forgets it and another carries it for years?</p>
 
