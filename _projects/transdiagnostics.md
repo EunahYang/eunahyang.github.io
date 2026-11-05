@@ -3,8 +3,8 @@ layout: page
 title: Neuroimaging-based transdiagnostic approach to psychiatric disorders in adolescents
 description: 2025
 img: assets/img/transdiagnostics_thumbnail.jpg
-importance: 94
-category: past
+importance: 95
+category: Past
 related_publications: false
 ---
 
