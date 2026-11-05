@@ -18,10 +18,10 @@ We still lack objective biomarkers that can reliably diagnose or predict mental 
     </div>
 </div>
 <div class="caption">
-    This illustration describes that individuals distributed in a continuous behavioral space cannot be neatly separated by diagnostic boundaries. Clusters based on shared phenotypic features often cut across traditional categories.
+    This illustration describes that individuals distributed in a continuous behavioral space cannot be neatly separated by diagnostic boundaries. Clusters based on shared phenotypic features often cut across traditional categories. (Left scatter plot: cropped from Astle et al., 2021, J Child Psychol Psychiatry, Right vector-like image: I made it!)
 </div>
 
-> Can FC predict individual symptom patterns without relying on diagnostic labels?<br> sdfdsf dsf <br> sdfsdfds
+> Can FC predict individual symptom patterns (latent phenotypic components) more than classifying diseases or pridicting single phenotypic severity?
 
 To move beyond these categorical limitations, I purpose a brain-based approach that focuses on individual network patterns rather than predefined diagnostic labels. Instead of predicting a single disorder, each person is represented as a vector of multiple behavioral and cognitive constructs—such as emotional regulation, motivation, and attentional control—derived from population-level assessments. By predicting these multidimensional profiles directly from functional connectomes, this framework captures continuous variation in how brain networks support diverse mental processes. Such a perspective, often described as transdiagnostic, seeks to reveal shared neural mechanisms that span conventional diagnostic boundaries while maintaining sensitivity to individual differences. Ultimately, this allows for a more interpretable and mechanistic understanding of how the brain gives rise to complex behavioral phenotypes.
 
